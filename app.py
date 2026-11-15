@@ -36,7 +36,8 @@ st.set_page_config(page_title="Market Price Behaviour Segmentation", layout="wid
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Lora:wght@500;600&display=swap');
-html, body, .stApp, [class*="st-"] { font-family: 'Nunito', 'Segoe UI', sans-serif; }
+html, body, .stApp, .stMarkdown, p, label, li, input, textarea, button, [data-testid="stSidebar"] { font-family: 'Nunito', 'Segoe UI', sans-serif; }
+[data-testid="stIconMaterial"], [class*="material-symbols"], [class*="material-icons"] { font-family: 'Material Symbols Rounded', 'Material Symbols Outlined', 'Material Icons' !important; }
 h1, h2, h3, .sec, .hero h1 { font-family: 'Lora', Georgia, serif !important; color: #3B4252; letter-spacing: 0; }
 .stApp { background: #FAF7F2; }
 section[data-testid="stSidebar"] { background: #F1EBF3; border-right: 1px solid #E5DCE8; }
