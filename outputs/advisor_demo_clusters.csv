@@ -1,0 +1,4 @@
+cluster,cluster_name,markets_in_reach,median_net_price,best_net_price,avg_volatility,avg_momentum_pct,best_market,enough_markets
+0,"high peak price, high premium vs region (provisional)",79,2822.6146636445333,4294.84132860999,0.022888063423152284,8.072257733568946,Maharashtra | APMC Mumbai,True
+2,"low premium vs region, low floor price (provisional)",32,2669.450920786542,2891.247326418659,0.021481902493777967,5.3663685887919295,Maharashtra | APMC Rahuri,True
+1,"low seasonality, low price trend (provisional)",2,2980.104217474468,3559.3334893498127,0.008593267591361906,0.30716723549487623,Maharashtra | APMC Solapur,False

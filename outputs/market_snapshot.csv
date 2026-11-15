@@ -1,0 +1,427 @@
+,State,cluster,cluster_name,recent_price,momentum_pct,volatility,lat,lon,coord_source
+Chattisgarh | Mungeli APMC,Chattisgarh,2,"low premium vs region, low floor price (provisional)",2622.5,4.899999999999993,0.027259014405783818,22.06566,81.68543,market-name
+Chattisgarh | Rajnandgaon APMC,Chattisgarh,2,"low premium vs region, low floor price (provisional)",2709.0,1.1575802837938687,0.025066545549554797,21.09687,81.0289,market-name
+Gujarat | APMC Bagasara,Gujarat,2,"low premium vs region, low floor price (provisional)",2773.75,2.5415896487985146,0.02931791024018774,21.48719,70.95516,market-name
+Gujarat | APMC HALVAD,Gujarat,0,"high peak price, high premium vs region (provisional)",3018.75,7.333333333333325,0.021337039459458362,23.01516,71.18029,market-name
+Gujarat | Babra APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2754.375,3.015427769985979,0.009055459919452176,21.84577,71.30544,market-name
+Gujarat | Bhiloda APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2962.5,5.333333333333323,0.028251411021268585,23.7676,73.24704,market-name
+Gujarat | Chotila APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2925.0,7.0448307410796,0.011333747561718791,22.42347,71.19641,market-name
+Gujarat | Dahod APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3141.25,8.318965517241384,0.014147433885545038,22.83283,74.25986,market-name
+Gujarat | Deesa APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2969.6875,7.18958671719907,0.017030156084685215,24.25612,72.17928,market-name
+Gujarat | Dehgam APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2869.25,4.279483917862992,0.017317754979542917,23.16903,72.82161,market-name
+Gujarat | Dehgam(Rekhiyal) APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2781.75,2.799334811529941,0.015344897908350667,23.16903,72.82161,market-name
+Gujarat | Dhanera APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2945.0,8.771929824561408,0.04016259714257722,24.50967,72.02343,market-name
+Gujarat | Dhari APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2675.0,-1.0175763182238673,0.021650597212954238,21.32855,71.02645,market-name
+Gujarat | Dhoraji APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2600.0,-3.480278422273786,0.019890350717057657,21.73359,70.45004,market-name
+Gujarat | Himatnagar APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2975.0,5.3097345132743445,0.012988321759687184,23.59893,72.96602,market-name
+Gujarat | JASDAN APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2925.0,7.5367647058823595,0.013203328587787678,22.03709,71.20794,market-name
+Gujarat | Jam Jodhpur APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2693.75,1.1737089201877993,0.014744605730009627,21.90219,70.0357,market-name
+Gujarat | Jamnagar APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2971.25,7.653985507246386,0.024570950399746497,22.47292,70.06673,market-name
+Gujarat | Jetpur(Dist.Rajkot) APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3107.5,10.48888888888888,0.01640772186454701,21.75482,70.62347,market-name
+Gujarat | Junagadh APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2700.0,0.0,0.0135302913847518,21.51966,70.45981,market-name
+Gujarat | Kadi APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3075.0,8.370044052863435,0.012110205863620528,23.29908,72.33362,market-name
+Gujarat | Kalawad APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2892.5,13.710073710073711,0.024485846855552686,22.47292,70.06673,district-name
+Gujarat | Kalol APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2950.0,5.592841163310958,0.019261633796829224,23.24656,72.49508,market-name
+Gujarat | Khambhat(Grain Market) APMC,Gujarat,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.009037689555799559,22.31744,72.61916,market-name
+Gujarat | Mahuva(Station Road) APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2950.25,5.630146795560331,0.02536558378741067,21.09007,71.76904,market-name
+Gujarat | Mansa APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3042.5,8.081705150976903,0.021456545250512004,23.42564,72.65739,market-name
+Gujarat | Meghraj APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2787.5,5.687203791469186,0.008841499623351365,23.49805,73.51352,market-name
+Gujarat | Mehsana APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3075.0,12.844036697247695,0.019609585259649717,23.59864,72.38472,market-name
+Gujarat | Mehsana(Jornang) APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2762.5,-0.45045045045044585,0.033271178586619855,23.59864,72.38472,market-name
+Gujarat | Modasa APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3077.5,10.801080108010797,0.025325790875860912,23.46253,73.29857,market-name
+Gujarat | Modasa(Tintoi) APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2975.0,11.475409836065564,0.0247956647012487,23.46253,73.29857,market-name
+Gujarat | Morbi APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3050.0,7.299912049252422,0.016536071812516092,22.81731,70.8377,market-name
+Gujarat | Morva Hafad APMC,Gujarat,1,"low seasonality, low price trend (provisional)",2450.0,5.376344086021501,0.018083081484553835,,,
+Gujarat | Palanpur APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2970.0,6.652302720172365,0.016657800293757734,24.17128,72.43827,market-name
+Gujarat | Palitana APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2787.5,4.351895180159104,0.02376932323360311,21.52519,71.82309,market-name
+Gujarat | Patan APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3075.0,9.333333333333327,0.022556763910600238,23.8507,72.12963,market-name
+Gujarat | Porbandar APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2766.25,1.653651814423518,0.027590694878616037,21.64219,69.60929,market-name
+Gujarat | Radhanpur APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2956.25,6.0538116591928315,0.01697819807859511,23.83238,71.6047,market-name
+Gujarat | Rajkot APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2955.0,4.232804232804233,0.012391083434733725,22.29161,70.79322,market-name
+Gujarat | Rajula APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2753.5,2.351082613140032,0.03004557773022942,21.03854,71.44345,market-name
+Gujarat | Sanad APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2917.625,6.25,0.019206548349632667,23.02579,72.58727,district-name
+Gujarat | Savarkundla APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2968.75,9.953703703703699,0.01725420338482309,21.33726,71.3035,market-name
+Gujarat | Siddhpur APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3018.5,6.21041520056298,0.024143444707754796,23.8507,72.12963,district-name
+Gujarat | Taleja APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2886.25,10.902977905859746,0.042223173834004285,21.76287,72.15331,district-name
+Gujarat | Thara APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2849.375,4.2533729705007906,0.02735177040764724,23.97345,71.81922,market-name
+Gujarat | The Agricultural Produce Market Committee-Amreli,Gujarat,0,"high peak price, high premium vs region (provisional)",2962.5,4.405286343612325,0.018125638439343707,21.59983,71.21169,district-name
+Gujarat | Vadali APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2980.0625,7.856044154904085,0.015886115270691434,23.94232,73.03784,market-name
+Gujarat | Vankaner APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2900.0,4.977375565610864,0.01862346108636663,22.81731,70.8377,district-name
+Gujarat | Veraval APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2667.5,-1.295097132284917,0.01640871084880379,20.9077,70.36786,market-name
+Gujarat | Viramgam APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",2781.25,2.3930050621260968,0.025437222556864078,23.12564,72.05014,market-name
+Gujarat | Visavadar APMC,Gujarat,2,"low premium vs region, low floor price (provisional)",2656.25,2.657004830917864,0.018724683489169135,21.33954,70.74966,market-name
+Gujarat | Visnagar APMC,Gujarat,0,"high peak price, high premium vs region (provisional)",3039.5,9.650072150072141,0.01840089670290732,23.69855,72.5521,market-name
+Karnataka | Vijayapura APMC,Karnataka,0,"high peak price, high premium vs region (provisional)",2736.0,4.01064436418932,0.048157145483384844,16.82442,75.71537,market-name
+Madhya Pradesh | A lot APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2834.5,8.321391038501957,0.023276293757859112,23.76336,75.55662,market-name
+Madhya Pradesh | Agar APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2776.75,6.4296665389038,0.02596385800139413,23.71177,76.01571,market-name
+Madhya Pradesh | Ajaygarh APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2612.5,1.7526777020447915,0.01273115441687407,24.72094,80.18772,district-name
+Madhya Pradesh | Alampur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2697.5,4.432830042586144,0.015529917063052038,26.02514,78.79697,market-name
+Madhya Pradesh | Alirajpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2562.5,2.4487756121938986,0.027793757325608886,22.30393,74.35568,market-name
+Madhya Pradesh | Amarpatan APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2630.0,3.380503144654079,0.011634247435714078,24.31371,80.97703,market-name
+Madhya Pradesh | Anjad APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2600.0,0.48309178743961567,0.03983857815904317,22.04171,75.05519,market-name
+Madhya Pradesh | Aron APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2840.0,6.307317986150096,0.03229614449276482,24.38109,77.41739,market-name
+Madhya Pradesh | Ashoknagar APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2783.75,6.402293358815103,0.039193101682547055,24.57578,77.73123,market-name
+Madhya Pradesh | Ashta APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2963.25,10.754999065595205,0.030021457157051176,23.01754,76.72208,market-name
+Madhya Pradesh | Badamalhera APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2590.0,0.9254749147588948,0.013002891081960474,24.56412,79.30712,market-name
+Madhya Pradesh | Badarwas APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2871.25,8.810990052108014,0.024997376685392023,24.97516,77.5649,market-name
+Madhya Pradesh | Badnagar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2853.0,4.304908143679742,0.031341977941088964,23.18239,75.77643,district-name
+Madhya Pradesh | Badnawar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2905.0,7.592592592592595,0.030677391204022932,23.02181,75.23268,market-name
+Madhya Pradesh | Badod APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2874.25,8.095148552087261,0.017050741079298853,23.78891,75.81159,market-name
+Madhya Pradesh | Badwaha APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2976.75,11.907894736842106,0.015105949248799296,21.82292,75.61394,district-name
+Madhya Pradesh | Badwani APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2525.0,10.989010989010994,0.03926889376305558,,,
+Madhya Pradesh | Baikunthpur APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2575.0,2.2332506203474045,0.011181347216317595,24.72768,81.40975,market-name
+Madhya Pradesh | Bamora APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2825.0,6.865897484395678,0.0617883507090186,24.05539,78.08925,market-name
+Madhya Pradesh | Banapura APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2837.75,6.682330827067662,0.014989446589274607,22.74747,77.72736,district-name
+Madhya Pradesh | Banda APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2720.5,6.602664576802497,0.015145242168556299,24.04488,78.96094,market-name
+Madhya Pradesh | Bankhedi APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2800.75,6.078969794527023,0.015490598881811583,22.74747,77.72736,district-name
+Madhya Pradesh | Barad APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2716.0,5.485969511603073,0.017651782796680206,25.42378,77.66223,district-name
+Madhya Pradesh | Bareli APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2687.5,3.3653846153846256,0.01635241746582233,23.00445,78.2301,market-name
+Madhya Pradesh | Begamganj APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2787.5,6.0389919163100325,0.017741499836322925,23.59917,78.34064,market-name
+Madhya Pradesh | Beohari APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2559.25,1.4568880079286473,0.016633735743932863,24.02423,81.37831,market-name
+Madhya Pradesh | Berasia APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2737.5,6.829268292682933,0.024070398469728818,23.63134,77.43351,market-name
+Madhya Pradesh | Betul APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2932.75,10.046904315196992,0.0165435551449835,21.90056,77.90229,market-name
+Madhya Pradesh | Bhander APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2691.5,1.7965204236006116,0.011679053738552147,25.73581,78.74555,market-name
+Madhya Pradesh | Bherunda (Nasrullaganj) APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2821.5,6.091370558375631,0.0269039158016392,23.2,77.08333,district-name
+Madhya Pradesh | Bhikangaon APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2943.75,8.98741206960385,0.020400059829973054,21.86764,75.96391,market-name
+Madhya Pradesh | Bhind APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2688.0,3.087248322147662,0.012155886617901944,26.56671,78.78728,market-name
+Madhya Pradesh | Bhitarwar APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2740.0,4.430681276798465,0.019081634894452408,25.79216,78.11085,market-name
+Madhya Pradesh | Bhopal APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2808.25,4.629284649776455,0.02623987673892436,23.25469,77.40289,market-name
+Madhya Pradesh | Biaora APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2806.25,6.904761904761902,0.015477515724209736,23.9205,76.91074,market-name
+Madhya Pradesh | Bijawar APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2627.5,2.7370478983382185,0.013898823125589476,24.62351,79.48994,market-name
+Madhya Pradesh | Bina APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2775.0,7.246376811594213,0.024860798944598687,24.17161,78.18755,market-name
+Madhya Pradesh | Binaganj APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2810.0,7.869481765834929,0.018183423903171295,24.64691,77.3113,district-name
+Madhya Pradesh | Burhanpur APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2758.5,4.035451631152176,0.02785968839170816,21.30868,76.23026,market-name
+Madhya Pradesh | Chaakghat APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2602.0,2.2396856581532454,0.008656762473667914,24.53256,81.29234,district-name
+Madhya Pradesh | Chanderi APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2625.0,1.27314814814814,0.014527744917992986,24.71312,78.13809,market-name
+Madhya Pradesh | Chaurai APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2900.0,8.178681339177473,0.016623596831744504,22.05459,79.25195,market-name
+Madhya Pradesh | Chhapiheda APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2827.5,8.219309157018472,0.014152817924768794,23.89484,76.45378,market-name
+Madhya Pradesh | Chhatarpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2667.5,3.1914893617021267,0.010772513600770233,24.9177,79.58871,market-name
+Madhya Pradesh | Chhindwara APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2900.0,7.726597325408613,0.013531389169081602,22.05697,78.93958,market-name
+Madhya Pradesh | Dabra APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2650.0,-1.1655011655011704,0.015558482128260777,25.88572,78.33221,market-name
+Madhya Pradesh | Daloda APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3013.0,11.893046142419461,0.027268648681933426,24.07184,75.06986,district-name
+Madhya Pradesh | Damoh APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2575.0,2.5385764061722327,0.010667935699248813,23.83312,79.4419,market-name
+Madhya Pradesh | Datia APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2700.0,3.1223145230592886,0.012832293421427034,25.67312,78.45908,market-name
+Madhya Pradesh | Deori APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2621.25,2.392578125,0.010970005561627428,23.39017,79.0163,market-name
+Madhya Pradesh | Devandranagar APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2535.0,0.5952380952380931,0.011502041512183007,24.72094,80.18772,district-name
+Madhya Pradesh | Dewas APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2775.0,4.716981132075482,0.02801634604016282,22.96585,76.05526,market-name
+Madhya Pradesh | Dhamnod APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3094.0,12.796208530805696,0.015499144739763436,22.20928,75.47057,market-name
+Madhya Pradesh | Dhar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2855.0,8.24644549763034,0.021461976459893076,22.59373,75.29774,market-name
+Madhya Pradesh | Dindori APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2562.5,2.499999999999991,0.02051199980950235,22.94141,81.07975,market-name
+Madhya Pradesh | Gadakota APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2703.75,3.890489913544659,0.014213684078201961,23.83877,78.73874,district-name
+Madhya Pradesh | Gadarwada APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2757.5,5.955811719500481,0.01349070589548823,22.94936,79.18357,district-name
+Madhya Pradesh | Gairatganj APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3020.75,11.683150013864507,0.0387584265759628,23.41022,78.22082,market-name
+Madhya Pradesh | Gandhwani APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2950.0,9.36051899907322,0.01481417655929096,22.59373,75.29774,district-name
+Madhya Pradesh | Ganjbasoda APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2787.5,7.2424737905165015,0.024086337066383027,23.52604,77.81092,district-name
+Madhya Pradesh | Garoth APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2841.5,11.19154764234005,0.014919218645909211,24.32342,75.65204,market-name
+Madhya Pradesh | Gautampura APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2850.0,8.9866156787763,0.02720424201075994,22.98664,75.51921,market-name
+Madhya Pradesh | Gohad APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2706.25,3.291984732824438,0.016567518896805924,26.43278,78.44205,market-name
+Madhya Pradesh | Gotegaon APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2787.5,5.387523629489599,0.012609116141765282,23.02888,79.48233,market-name
+Madhya Pradesh | Guna APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3026.25,15.837320574162671,0.03146262071429305,24.64691,77.3113,market-name
+Madhya Pradesh | Haatpipliya APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2888.0,8.469483568075109,0.02741752582600976,22.96585,76.05526,district-name
+Madhya Pradesh | Hanumana APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2475.0,2.0618556701030855,0.014731457123466855,24.77888,82.096,market-name
+Madhya Pradesh | Harda APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2841.5,7.347941065357011,0.01374389258682401,22.34414,77.09536,market-name
+Madhya Pradesh | Harpalpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2765.0,5.3534006477424345,0.013824339408265992,25.28773,79.33279,market-name
+Madhya Pradesh | Harsood APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2836.5,7.841459937268325,0.01365307962316279,21.82427,76.35086,district-name
+Madhya Pradesh | Ichhawar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2822.75,3.7585002756846064,0.022815294995619448,23.02816,77.01729,market-name
+Madhya Pradesh | Indore APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2978.5,9.948320413436695,0.016677110982819546,22.71792,75.8333,market-name
+Madhya Pradesh | Isagarh APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2585.0,-13.851280983128511,0.04396864008522545,24.83906,77.88274,market-name
+Madhya Pradesh | Itarsi APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2852.25,7.500235560162061,0.01391529149569737,22.61477,77.76222,market-name
+Madhya Pradesh | Jabalpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2662.5,2.3743151014130603,0.020792411789414197,23.16697,79.95006,market-name
+Madhya Pradesh | Jaora APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3084.5,11.33369427901101,0.02585012550482844,23.63783,75.12711,market-name
+Madhya Pradesh | Jatara APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2613.5,2.6814654749042433,0.009215688654907859,25.00964,79.04869,market-name
+Madhya Pradesh | Javera APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2630.0,2.434274586173313,0.011411948479233899,23.83312,79.4419,district-name
+Madhya Pradesh | Jawar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2850.0,11.328125,0.025877099487494077,23.00943,76.5007,market-name
+Madhya Pradesh | Jeerapur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2837.5,8.456760630673665,0.014334993843465534,24.00826,76.7325,district-name
+Madhya Pradesh | Jhabua APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",,,0.033389793051142376,22.76772,74.59087,market-name
+Madhya Pradesh | Jobat APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2604.5,2.1372549019607945,0.013418776036469428,22.41599,74.56828,market-name
+Madhya Pradesh | Kailaras APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2780.0,6.106870229007644,0.011425674615471655,26.30498,77.616,market-name
+Madhya Pradesh | Kalapipal APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2832.25,5.641551659828425,0.02391695153237768,23.42637,76.27775,district-name
+Madhya Pradesh | Kannod APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2892.25,10.814176245210728,0.021418913650168445,22.66764,76.74286,market-name
+Madhya Pradesh | Kareli APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2782.0,6.3862332695984625,0.017545938917115728,22.91533,79.06378,market-name
+Madhya Pradesh | Karera APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2580.0,0.6044063170208558,0.011755549499045349,25.45815,78.13583,market-name
+Madhya Pradesh | Karhi APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2877.5,10.513682189150252,0.023970660601739177,21.82292,75.61394,district-name
+Madhya Pradesh | Kasrawad APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3098.75,10.472370766488414,0.020349108594961102,22.12745,75.61101,market-name
+Madhya Pradesh | Katni APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2600.0,1.4634146341463428,0.014516844295157313,23.83776,80.39405,market-name
+Madhya Pradesh | Kesli APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2750.0,6.589147286821695,0.012358326741712635,23.83877,78.73874,district-name
+Madhya Pradesh | Khachrod APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2900.0,12.153147055979897,0.026175275466272997,23.42322,75.28185,market-name
+Madhya Pradesh | Khandwa APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2867.25,5.636916275214143,0.02345679810080686,21.82427,76.35086,market-name
+Madhya Pradesh | Khaniadhana APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2536.0,0.41575925559296234,0.012758042427550215,25.42378,77.66223,district-name
+Madhya Pradesh | Khargapur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2625.0,3.04219823356231,0.010172544691169395,24.823,79.144,market-name
+Madhya Pradesh | Khargone APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2912.5,7.651081131029391,0.015989912568832584,21.82292,75.61394,market-name
+Madhya Pradesh | Khategaon APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2802.5,6.155303030303028,0.017578470342149096,22.59573,76.9133,market-name
+Madhya Pradesh | Khilchipur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2835.0,8.7248322147651,0.015893494842245007,24.03943,76.578,market-name
+Madhya Pradesh | Khirkiya APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2923.0,10.135644310474756,0.01602977898286998,22.16732,76.86137,market-name
+Madhya Pradesh | Khujner APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2818.25,8.030666027791078,0.017490312691504164,23.78597,76.61773,market-name
+Madhya Pradesh | Khurai APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2772.75,5.769597558649631,0.023992630982410303,24.04372,78.33014,market-name
+Madhya Pradesh | Kolaras APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2740.0,5.996131528046411,0.013774589291761462,25.21928,77.61167,market-name
+Madhya Pradesh | Krishi Upaj Mandi Samiti Bichhiya,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2490.0,0.809716599190291,0.023618195648021905,22.59879,80.37115,district-name
+Madhya Pradesh | Kukshi APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2837.5,8.095238095238088,0.019909983989703638,22.20677,74.75788,market-name
+Madhya Pradesh | Kumbhraj APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2835.0,7.132735002361823,0.018373488102352786,24.37338,77.04841,market-name
+Madhya Pradesh | Lahar APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2669.5,3.1890220332431385,0.01383884427352956,26.19401,78.94137,market-name
+Madhya Pradesh | Lakhnadon APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2375.0,1.7784443968287933,0.02134951222485198,22.60049,79.60094,market-name
+Madhya Pradesh | Lashkar APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2768.75,4.186265286923807,0.016131837578836235,26.22983,78.17337,district-name
+Madhya Pradesh | Lateri APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2645.0,2.1728633510381457,0.029907168542291206,24.06091,77.41044,market-name
+Madhya Pradesh | LavKush Nagar(Laundi) APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2551.75,1.310173697270467,0.011319858168549234,25.13962,80.00112,market-name
+Madhya Pradesh | Loharda APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2925.0,7.025246981339195,0.024647395038970236,22.59183,76.59569,market-name
+Madhya Pradesh | Magroni APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2695.25,4.669902912621349,0.014897756810702736,25.42378,77.66223,district-name
+Madhya Pradesh | Mahidpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2883.0,10.195891065456287,0.02957367694014753,23.48879,75.658,market-name
+Madhya Pradesh | Maihar APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2597.5,2.4654832347140054,0.01189498940063072,24.26594,80.76063,market-name
+Madhya Pradesh | Maksudangarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2812.75,7.080993623298748,0.014976624936498883,24.64691,77.3113,district-name
+Madhya Pradesh | Manasa APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2950.0,11.499574789757162,0.01920079820970897,,,
+Madhya Pradesh | Manawar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3025.0,12.037037037037045,0.015012729579896482,22.23566,75.08917,market-name
+Madhya Pradesh | Mandla APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2502.5,0.6030150753768782,0.023340941394537056,22.59879,80.37115,market-name
+Madhya Pradesh | Mandsaur APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3050.0,12.775004621926422,0.020583337543865845,24.07184,75.06986,market-name
+Madhya Pradesh | Mehgaon APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2587.5,4.863221884498481,0.011669856025094082,26.49471,78.61593,market-name
+Madhya Pradesh | Mhow (Ambedkar Nagar) APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2830.0,4.11110089211808,0.03092075530019077,22.5589,75.76543,market-name
+Madhya Pradesh | Morena APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2832.0,6.656623670087569,0.012892273973138116,26.49892,77.99534,market-name
+Madhya Pradesh | Mow APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2631.25,4.156358238495783,0.016174950647919514,26.56671,78.78728,district-name
+Madhya Pradesh | Mundi APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2945.0,11.027332704995295,0.014805930576284628,22.06693,76.49326,market-name
+Madhya Pradesh | Mungawali APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2661.25,2.3065833733781904,0.016118556533726926,24.57578,77.73123,district-name
+Madhya Pradesh | Nagda APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2945.0,10.922787193973637,0.02230479144354405,23.45834,75.41759,market-name
+Madhya Pradesh | Nagod APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2661.25,3.904343582235237,0.011788232477559639,24.56924,80.58809,market-name
+Madhya Pradesh | Nalkheda APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2758.75,5.699233716475094,0.026665310469443426,23.83602,76.24316,market-name
+Madhya Pradesh | Narsinghgarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2830.0,7.758210376011432,0.02110905102014891,23.70758,77.09319,market-name
+Madhya Pradesh | Narsinghpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2737.5,5.157015269374821,0.013901046595238888,22.94936,79.18357,market-name
+Madhya Pradesh | Naugaon APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2600.0,1.3645224171539905,0.010290229863473303,24.9177,79.58871,district-name
+Madhya Pradesh | Neemuch APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3294.0,18.043361404766166,0.028979100991149812,,,
+Madhya Pradesh | Niwadi APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2727.5,4.682402609863745,0.012009715163324615,,,
+Madhya Pradesh | Obedullaganj APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2737.5,3.693181818181812,0.01840581873284806,22.99834,77.58621,market-name
+Madhya Pradesh | Paatan APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2748.75,6.027000964320162,0.017567698841969882,23.16697,79.95006,district-name
+Madhya Pradesh | Pachaur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2811.25,8.125000000000004,0.016979483692711635,24.00826,76.7325,district-name
+Madhya Pradesh | Palera APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2551.0,0.7305034550839196,0.009590218259245768,25.02013,79.22818,market-name
+Madhya Pradesh | Pandhana APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2722.5,3.6747905559786798,0.014284900379872177,21.69816,76.22487,market-name
+Madhya Pradesh | Panna APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2525.5,0.06934125804853863,0.010391733157529861,24.72094,80.18772,market-name
+Madhya Pradesh | Patharia APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2721.25,4.462571976967378,0.018268777050064557,23.89921,79.19393,market-name
+Madhya Pradesh | Petlawad APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2775.0,6.730769230769229,0.018498125128140374,23.01102,74.79772,market-name
+Madhya Pradesh | Pichhour APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2586.25,1.7207472959685388,0.011270876744723761,25.42378,77.66223,district-name
+Madhya Pradesh | Pipariya APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2822.75,5.919324577861174,0.015663586756445826,22.74747,77.72736,district-name
+Madhya Pradesh | Piplya APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3014.0,11.826361190984148,0.0184846484693955,24.19511,75.00603,market-name
+Madhya Pradesh | Pohari APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2706.25,5.97161037689673,0.014802554490342937,25.42378,77.66223,district-name
+Madhya Pradesh | Raghogarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2761.25,4.65226454424863,0.020200089255915467,24.44318,77.19768,market-name
+Madhya Pradesh | Rahatgarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2760.25,4.554924242424252,0.019211861582336516,23.78968,78.39473,market-name
+Madhya Pradesh | Raisen APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2780.0,4.462188821042745,0.026633480241215406,23.33033,77.7811,market-name
+Madhya Pradesh | Rajgarh APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2925.25,6.430780425686744,0.022477877541479903,24.00826,76.7325,market-name
+Madhya Pradesh | Rajnagar APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,1.2145748987854255,0.008883930268107984,24.88929,79.91178,market-name
+Madhya Pradesh | Ratlam APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2915.0,5.520361990950229,0.029334068892929468,23.33033,75.04032,market-name
+Madhya Pradesh | Rehati APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2707.0,5.197707179636657,0.01798820220758133,22.73781,77.43399,market-name
+Madhya Pradesh | Rehli APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2664.5,2.4216798001153172,0.02043519893806485,23.63722,79.06275,market-name
+Madhya Pradesh | Rewa APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2645.5,2.558635394456288,0.0168824949830055,24.53256,81.29234,market-name
+Madhya Pradesh | Sabalgarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2756.5,5.836052985217899,0.012660820161731324,26.24918,77.40786,market-name
+Madhya Pradesh | Sagar APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2735.0,5.242905242905249,0.025815296103163247,23.83877,78.73874,market-name
+Madhya Pradesh | Sailana APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2950.0,8.926428505492478,0.040839001983452326,23.46219,74.92318,market-name
+Madhya Pradesh | Sanawad APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2940.0,8.367121267969036,0.021264902539445615,22.17391,76.06993,market-name
+Madhya Pradesh | Sanwer APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2970.25,10.510650172077018,0.01875188266765586,22.97415,75.8271,market-name
+Madhya Pradesh | Sarangpur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2806.75,7.744721689059508,0.01794222954811371,23.56651,76.47306,market-name
+Madhya Pradesh | Satna APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2596.5,2.7198101078033776,0.011344072816316357,24.57726,80.82719,market-name
+Madhya Pradesh | Sehora APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2691.5,2.994355687362482,0.01678860684532216,23.16697,79.95006,district-name
+Madhya Pradesh | Sehore APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2950.0,8.84604741260031,0.017301431882294847,23.2,77.08333,market-name
+Madhya Pradesh | Semriharchand APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2824.5,8.509412216673073,0.02047953427741678,22.74747,77.72736,district-name
+Madhya Pradesh | Sendhwa APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3050.0,11.593871484107021,0.02878903087715214,21.68562,75.09622,market-name
+Madhya Pradesh | Seoni APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2650.0,1.5325670498084198,0.015991461631614277,22.08503,79.55037,market-name
+Madhya Pradesh | Sevda APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2717.25,4.731162073617257,0.012236029402658565,25.67312,78.45908,district-name
+Madhya Pradesh | Shahagarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2600.0,1.0689990281826933,0.010861738651848352,23.83877,78.73874,district-name
+Madhya Pradesh | Shahdol APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2575.0,3.0000000000000027,0.018616612465119146,23.29356,81.3619,market-name
+Madhya Pradesh | Shahpura Bhitoni (F&V) APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2678.0,2.6151930261519407,0.015826689514703892,23.16697,79.95006,district-name
+Madhya Pradesh | Shajapur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2825.0,9.922178988326857,0.039158930299841445,23.42637,76.27775,market-name
+Madhya Pradesh | Shamgarh APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2896.25,9.99810102544625,0.02197301701862622,24.18817,75.63903,market-name
+Madhya Pradesh | Shamshabad APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2715.0,7.407773711799037,0.022521822641712187,23.52604,77.81092,district-name
+Madhya Pradesh | Sheopurbadod APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2842.75,6.559835067004038,0.013656871755977712,25.66472,76.69616,district-name
+Madhya Pradesh | Sheopurkalan APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2883.5,8.996408996408988,0.01653758294632648,25.66472,76.69616,market-name
+Madhya Pradesh | Shivpuri APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2750.0,8.481262327416172,0.01927019030107197,25.42378,77.66223,market-name
+Madhya Pradesh | Shujalpur APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2840.5,9.250000000000004,0.02325334614714283,23.40673,76.7098,market-name
+Madhya Pradesh | Shyampur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2805.25,6.663498098859311,0.019340758917878894,23.2,77.08333,district-name
+Madhya Pradesh | Sidhi APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2440.0,1.5608740894901052,0.015911166520901847,24.4038,81.87954,market-name
+Madhya Pradesh | Silvani APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2775.0,6.2505982578730634,0.017292415176015506,23.3026,78.44076,market-name
+Madhya Pradesh | Sirali APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2817.5,7.251617814998101,0.019152944965030304,22.34414,77.09536,district-name
+Madhya Pradesh | Sironj APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2847.5,6.687898089171984,0.09996875415871523,24.10313,77.69055,market-name
+Madhya Pradesh | Sitamau APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3000.0,12.994350282485879,0.019143389792770905,24.01473,75.35324,market-name
+Madhya Pradesh | Sonkatch APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2955.0,14.1257120787873,0.021632855539771068,22.97166,76.34667,market-name
+Madhya Pradesh | Susner APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2772.75,6.633977502163257,0.01845972994006579,23.94667,76.08825,market-name
+Madhya Pradesh | Taal APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",3036.0,14.167528438469489,0.0244197814030414,23.33033,75.04032,district-name
+Madhya Pradesh | Tarana APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2856.5,11.866066183669478,0.025556467866796058,23.33383,76.04253,market-name
+Madhya Pradesh | Thandla APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2712.5,4.326923076923084,0.032736680036728465,23.00959,74.57747,market-name
+Madhya Pradesh | Tikamgarh APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2697.5,3.750000000000009,0.010479843763343162,24.74327,78.83061,market-name
+Madhya Pradesh | Timarni APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2889.0,9.483657034580762,0.014957080008737873,22.34414,77.09536,district-name
+Madhya Pradesh | Udaipura APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2768.75,6.901544401544402,0.01734752949132164,23.07434,78.51108,market-name
+Madhya Pradesh | Ujjain APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2837.5,7.705446953881201,0.02348734312289932,23.18239,75.77643,market-name
+Madhya Pradesh | Umariya APMC,Madhya Pradesh,1,"low seasonality, low price trend (provisional)",2512.5,1.9269776876267741,0.012722051840617588,,,
+Madhya Pradesh | Unhel APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2920.5,10.708870356330547,0.02539827983575154,23.33794,75.55931,market-name
+Madhya Pradesh | Vidisha APMC,Madhya Pradesh,0,"high peak price, high premium vs region (provisional)",2894.5,11.595180722891563,0.04042481747008767,23.52604,77.81092,market-name
+Madhya Pradesh | Vijaypur APMC,Madhya Pradesh,2,"low premium vs region, low floor price (provisional)",2725.0,7.230693556320711,0.013427543123822354,26.05052,77.37138,market-name
+Maharashtra | APMC Akola,Maharashtra,0,"high peak price, high premium vs region (provisional)",3253.75,16.10169491525424,0.040773778442213936,20.70957,76.9981,market-name
+Maharashtra | APMC Amarawati,Maharashtra,1,"low seasonality, low price trend (provisional)",2689.25,1.5577794561933533,0.014151806477212585,,,
+Maharashtra | APMC Chattrapati Sambhajinagar,Maharashtra,0,"high peak price, high premium vs region (provisional)",3184.5,10.438702965146529,0.025055081997744366,,,
+Maharashtra | APMC Deoulgaon Raja,Maharashtra,0,"high peak price, high premium vs region (provisional)",3002.5,13.838862559241715,0.023979250612928285,,,
+Maharashtra | APMC Hinganghat,Maharashtra,2,"low premium vs region, low floor price (provisional)",2756.25,6.4189189189189255,0.019360370688706927,20.54875,78.83978,market-name
+Maharashtra | APMC Jalana,Maharashtra,0,"high peak price, high premium vs region (provisional)",3045.0,8.507795100222726,0.017934502034245108,19.84102,75.88636,district-name
+Maharashtra | APMC Kalyan,Maharashtra,0,"high peak price, high premium vs region (provisional)",3750.0,0.0,0.03549777856321838,19.2437,73.13554,market-name
+Maharashtra | APMC Karmala,Maharashtra,0,"high peak price, high premium vs region (provisional)",2875.25,7.425742574257432,0.028478096717111965,18.4077,75.19386,market-name
+Maharashtra | APMC Katol,Maharashtra,2,"low premium vs region, low floor price (provisional)",2714.0,2.01090020672805,0.016364478766384714,21.27388,78.5858,market-name
+Maharashtra | APMC Kopargaon,Maharashtra,0,"high peak price, high premium vs region (provisional)",3091.0,11.881277712424222,0.02225535700341951,19.88239,74.47605,market-name
+Maharashtra | APMC Majalgaon,Maharashtra,0,"high peak price, high premium vs region (provisional)",2960.5,5.732142857142852,0.022324481096419026,19.15513,76.20992,market-name
+Maharashtra | APMC Malegaon,Maharashtra,0,"high peak price, high premium vs region (provisional)",3118.75,14.839362975237048,0.022355790760684488,20.54966,74.53462,market-name
+Maharashtra | APMC Malkapur,Maharashtra,0,"high peak price, high premium vs region (provisional)",2886.25,9.431279620853083,0.020348552622845913,20.88555,76.19932,market-name
+Maharashtra | APMC Mumbai,Maharashtra,0,"high peak price, high premium vs region (provisional)",4375.0,4.166666666666674,0.023484653923725833,19.07283,72.88261,market-name
+Maharashtra | APMC Murtizapur,Maharashtra,2,"low premium vs region, low floor price (provisional)",2702.5,1.5977443609022535,0.02011399406196023,20.70957,76.9981,district-name
+Maharashtra | APMC Nagpur,Maharashtra,0,"high peak price, high premium vs region (provisional)",3025.75,-1.4092538286086698,0.0657289340704137,21.14631,79.08491,market-name
+Maharashtra | APMC Pachora,Maharashtra,0,"high peak price, high premium vs region (provisional)",2706.0,3.6384527001148914,0.02983069671715934,20.66727,75.35305,market-name
+Maharashtra | APMC Paithan,Maharashtra,0,"high peak price, high premium vs region (provisional)",2958.0,7.563636363636372,0.030989289609270006,19.47506,75.38558,market-name
+Maharashtra | APMC Rahuri,Maharashtra,2,"low premium vs region, low floor price (provisional)",2950.0,10.902255639097746,0.02143475119002353,19.39069,74.64979,market-name
+Maharashtra | APMC Solapur,Maharashtra,1,"low seasonality, low price trend (provisional)",3685.0,0.6143344709897525,0.008148845626924254,17.67152,75.91044,market-name
+Maharashtra | Lasalgaon(Niphad),Maharashtra,0,"high peak price, high premium vs region (provisional)",3033.0,10.431458219552159,0.02335176486138976,20.1427,74.23946,market-name
+Maharashtra | Rahuri(Vambori),Maharashtra,0,"high peak price, high premium vs region (provisional)",2817.5,4.168592291339301,0.02325020892946072,19.39069,74.64979,market-name
+Maharashtra | Shevgaon(Bodhegaon),Maharashtra,2,"low premium vs region, low floor price (provisional)",2925.0,10.377358490566046,0.015763726591253698,19.09457,74.73843,district-name
+NCT of Delhi | APMC Najafgarh,NCT of Delhi,0,"high peak price, high premium vs region (provisional)",2944.5,6.443741527338465,0.023905730821262444,28.60922,76.97982,market-name
+Rajasthan | Anta APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2875.0,12.315655825764239,0.01541313192100015,25.15,76.3,market-name
+Rajasthan | Atru APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2812.0,7.73946360153257,0.02927521788670123,24.87686,76.66105,market-name
+Rajasthan | Baran APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",3008.5,12.006701414743116,0.014584615209116244,25.1,76.51667,market-name
+Rajasthan | Bassi APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2796.75,6.532711170364736,0.01522134647691297,26.8315,76.04856,market-name
+Rajasthan | Bhawani Mandi APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2812.5,9.90621336459554,0.017733357411949757,24.59633,76.16499,district-name
+Rajasthan | Choumahla APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2862.5,9.747915268858431,0.01915089961468918,24.59633,76.16499,district-name
+Rajasthan | Deeg APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2784.5,7.096153846153852,0.017507812482514682,27.47188,77.32564,market-name
+Rajasthan | Dei APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2800.0,6.4638783269961975,0.015091935183586534,25.43855,75.63735,district-name
+Rajasthan | Deoli APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2765.5,6.52927580893683,0.011853846633842922,25.75728,75.37991,market-name
+Rajasthan | Dooni APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2702.0,4.607046070460696,0.01442718209151864,26.16638,75.78824,district-name
+Rajasthan | Fatehnagar APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",3114.5,11.831238779174157,0.013389308998073956,24.81494,74.09504,market-name
+Rajasthan | Hindoun APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2765.5,8.080117244748418,0.014254389157863732,26.49831,77.02755,district-name
+Rajasthan | Iklera APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2752.5,4.647847162817231,0.011937355663952138,24.59633,76.16499,district-name
+Rajasthan | Itawa APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2942.5,9.518935516888426,0.013691088436804187,25.18254,75.83907,district-name
+Rajasthan | Jhalarapatan APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2600.0,0.5802707930367523,0.019544706589220966,24.59633,76.16499,district-name
+Rajasthan | Khanpur APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2874.0,9.070208728652762,0.019722911336855664,24.59633,76.16499,district-name
+Rajasthan | Kherli APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2783.75,5.9265601217656005,0.014449809338651892,27.27359,76.98613,market-name
+Rajasthan | Lalsot APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2775.0,4.598567659253683,0.012829043100706376,26.55951,76.32915,market-name
+Rajasthan | Madanganj Kishangarh APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2638.5,2.5257431513503015,0.014395581596075483,26.4521,74.63867,district-name
+Rajasthan | Malpura APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2812.5,8.695652173913038,0.01274144134198172,26.2838,75.36458,market-name
+Rajasthan | Mandawar APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2801.5,8.396208164054952,0.012462616145647113,27.11743,76.91091,market-name
+Rajasthan | Mandawari APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2825.0,6.073406552144944,0.012537597902679831,26.89,76.33584,district-name
+Rajasthan | Niwai APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2798.5,6.406844106463883,0.013927120680061356,26.36073,75.91836,market-name
+Rajasthan | Pratapgarh APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2975.0,9.596610793884697,0.026669785723879246,24.03215,74.78162,market-name
+Rajasthan | Ramganjmandi APMC,Rajasthan,0,"high peak price, high premium vs region (provisional)",2897.75,11.366256725595703,0.013170669641137835,25.18254,75.83907,district-name
+Rajasthan | Samraniyan APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2840.0,8.59382468215275,0.015519200898342751,25.1,76.51667,district-name
+Rajasthan | Sumerganj APMC,Rajasthan,2,"low premium vs region, low floor price (provisional)",2838.5,6.500328299409053,0.015832058907371212,25.72985,76.23143,market-name
+Uttar Pradesh | Achalda APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2413.85,0.5770833333333281,0.005136558642033422,26.46517,79.50918,district-name
+Uttar Pradesh | Achnera APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2701.3450000000003,-0.13899645300273766,0.01118567051497765,27.17826,77.75674,market-name
+Uttar Pradesh | Ait APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2604.3,-0.02063468450527184,0.011092377044075617,26.1451,79.3366,district-name
+Uttar Pradesh | Akbarpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,1.838490264749515,0.0021008540891168117,26.42953,82.53431,market-name
+Uttar Pradesh | Aligarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2561.9725,0.641686021674337,0.006321828154828156,27.88145,78.07464,market-name
+Uttar Pradesh | Anandnagar APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2403.045,-0.025585981378384304,0.013238626496874491,27.10062,83.27156,market-name
+Uttar Pradesh | Atarra APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2513.39,1.7023291196607504,0.007585158412354406,25.28618,80.57155,market-name
+Uttar Pradesh | Auraiya APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2570.0,-0.9633911368015391,0.009805267208677122,26.46517,79.50918,market-name
+Uttar Pradesh | Ayodhya APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.005464013792430902,26.79909,82.2047,market-name
+Uttar Pradesh | Azamgarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2594.2575,0.09356314499489038,0.005898187403983965,26.06832,83.18358,market-name
+Uttar Pradesh | Bachranwa APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2541.065,2.3216061786011988,0.0077094983441689255,,,
+Uttar Pradesh | Badayoun APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.0005966749429160848,28.03811,79.12668,district-name
+Uttar Pradesh | Bahraich APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.0,27.57429,81.59474,market-name
+Uttar Pradesh | Balrampur APMC,Uttar Pradesh,2,"low premium vs region, low floor price (provisional)",2650.0,2.139337327688051,0.018275675947351876,27.42949,82.18545,market-name
+Uttar Pradesh | Banda APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2531.57,0.10686601808911345,0.011826507618622174,25.47758,80.33491,market-name
+Uttar Pradesh | Bangarmau APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2583.31,0.8482061381977823,0.0073978282153389485,26.8912,80.21149,market-name
+Uttar Pradesh | Bansi APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.0032343670062206335,27.17749,82.93442,market-name
+Uttar Pradesh | Banthara APMC,Uttar Pradesh,2,"low premium vs region, low floor price (provisional)",2708.27,3.4217817093824543,0.013089178846798112,26.83928,80.92313,district-name
+Uttar Pradesh | Barabanki APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2588.66,2.031236143272408,0.008086287190273133,,,
+Uttar Pradesh | Bareilly APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2600.95,-0.04784422381873821,0.005596682971111299,28.36678,79.43167,market-name
+Uttar Pradesh | Baripaal APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2574.8775,0.8150748220480342,0.0065265965271031345,26.46523,80.34975,district-name
+Uttar Pradesh | Basti APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2468.09,-0.7340106341047536,0.002592457129374037,26.78817,82.71617,market-name
+Uttar Pradesh | Bharthna APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2550.05,0.0019607843137370295,0.0034107230065782957,26.77615,79.02133,district-name
+Uttar Pradesh | Bharuasumerpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2544.195,0.033027241576610855,0.011279749048516443,25.9553,80.14842,district-name
+Uttar Pradesh | Bharwari APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.005703495673334881,25.56078,81.49164,market-name
+Uttar Pradesh | Bhinga APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.006924489858402763,27.70283,81.9343,market-name
+Uttar Pradesh | Bindki APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2554.24,0.22129796751155784,0.010519162957674204,26.03613,80.57617,market-name
+Uttar Pradesh | Buland Shahr APMC,Uttar Pradesh,0,"high peak price, high premium vs region (provisional)",2857.3,6.179858788554449,0.01607397172576969,28.40392,77.85773,market-name
+Uttar Pradesh | Charkhari APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2400.0,0.0,0.013304660695533167,25.40304,79.74877,market-name
+Uttar Pradesh | Charra APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2590.0,3.600000000000003,0.007021269005382453,27.88145,78.07464,district-name
+Uttar Pradesh | Chirgaon APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2724.2425000000003,11.17927695010643,0.010021152621727668,25.57198,78.81432,market-name
+Uttar Pradesh | Choubepur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,3.6071878522644374,0.005872403394600905,26.46523,80.34975,district-name
+Uttar Pradesh | Devariya APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2748.3175,0.3781092891983695,0.010330854784909702,26.50167,83.77936,market-name
+Uttar Pradesh | Dibiapur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2567.335,0.2980812242035835,0.00685820114010787,26.46517,79.50918,district-name
+Uttar Pradesh | Etah APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.007489750775685235,27.55879,78.65692,market-name
+Uttar Pradesh | Fatehpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2539.9025,0.3856498342980297,0.00930088573162929,25.92774,80.81266,market-name
+Uttar Pradesh | Firozabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2814.5625,3.476562499999991,0.010840032213562724,27.15092,78.39781,market-name
+Uttar Pradesh | Golagokarnath APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2570.3625,0.5207177418487641,0.009992393518375064,27.94822,80.77935,district-name
+Uttar Pradesh | Gonda APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2730.0,0.0,0.019407338282331286,27.13181,81.95332,market-name
+Uttar Pradesh | Gorakhpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2521.8575,-0.01506598803642234,0.005686506147691175,26.76628,83.36889,market-name
+Uttar Pradesh | Gurusarai APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,-0.007099495935780631,0.004895042234745044,25.45887,78.57994,district-name
+Uttar Pradesh | Haathras APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2601.17,1.5545497935173014,0.003378422094798871,27.59551,78.05201,district-name
+Uttar Pradesh | Hapur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2605.0,0.14416146083613413,0.003543990304172603,28.72985,77.78068,market-name
+Uttar Pradesh | Hardoi APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2469.6775,-1.5940263360006757,0.011651185961961432,27.39491,80.13165,market-name
+Uttar Pradesh | Hargaon (Laharpur) APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2600.0,3.07234886025769,0.006157077644922777,27.56192,80.68265,district-name
+Uttar Pradesh | Jafarganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2441.045,1.4362248634677277,0.009254835152696012,26.15696,81.80519,district-name
+Uttar Pradesh | Jagnair APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2600.0,2.960204890807727,0.007113651651677815,26.8636,77.60231,market-name
+Uttar Pradesh | Jahanabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2516.0950000000003,0.6438000000000166,0.00720614046471681,28.63025,79.71818,market-name
+Uttar Pradesh | Jahangirabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2750.0,5.186658506731945,0.011529460622056833,,,
+Uttar Pradesh | Jalalabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2541.25,1.8673849995891167,0.012279212046123976,27.72625,79.65523,market-name
+Uttar Pradesh | Jalaun APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2567.21,1.3205722742969828,0.020870751170244117,26.1451,79.3366,market-name
+Uttar Pradesh | Jaunpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2591.05,0.021327949554073022,0.014176947786654652,25.75356,82.68689,market-name
+Uttar Pradesh | Jayas APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2475.3450000000003,-0.8901625675279412,0.006793050213017447,,,
+Uttar Pradesh | Jhansi APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2501.21,0.04839999999999289,0.008503691629830541,25.45887,78.57994,market-name
+Uttar Pradesh | Jhijhank APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2557.435,0.7625843157032186,0.0098024446297869,,,
+Uttar Pradesh | Kannauj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2600.0,4.0000000000000036,0.006686821121922553,27.05524,79.9188,market-name
+Uttar Pradesh | Kanpur(Grain) APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2628.2225,1.8117706988604043,0.017293654037979247,26.46523,80.34975,market-name
+Uttar Pradesh | Karvi APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2535.0,1.2831192803504754,0.011983040355913849,,,
+Uttar Pradesh | Kasganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2594.9,-1.3515735410542407,0.011726351196165935,27.80882,78.64579,market-name
+Uttar Pradesh | Khairagarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2618.75,1.4023043250140033,0.008750802952982653,26.94352,77.81816,market-name
+Uttar Pradesh | Khalilabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2530.0,0.0,0.004985091476045758,26.77268,83.07179,market-name
+Uttar Pradesh | Khurja APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2637.5,1.4423076923076872,0.007001178829770779,28.25382,77.85535,market-name
+Uttar Pradesh | Konch APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2561.48,3.441689163676598,0.02105549419894178,25.99451,79.15127,market-name
+Uttar Pradesh | Kosikalan APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2620.0,0.3831417624521105,0.007861098247265145,27.5035,77.67215,district-name
+Uttar Pradesh | Lakhimpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2530.9700000000003,0.8200941489992175,0.008580672766008615,27.94822,80.77935,market-name
+Uttar Pradesh | Lalganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2523.09125,2.900575863489352,0.007135044432024119,25.93182,81.70478,market-name
+Uttar Pradesh | Lalitpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2503.2200000000003,3.4010289625488133,0.012499777615822638,24.69007,78.41915,market-name
+Uttar Pradesh | Lucknow APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2660.0,0.0,0.00721659152699226,26.83928,80.92313,market-name
+Uttar Pradesh | Madhoganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2600.0,0.27363131314106504,0.00739450794802156,27.11807,80.14058,market-name
+Uttar Pradesh | Madhogarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2575.0,0.9803921568627416,0.013450375879805803,26.27522,79.1859,market-name
+Uttar Pradesh | Mahoba APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2484.1475,2.9073536691708313,0.01805702189048761,25.2905,79.87533,market-name
+Uttar Pradesh | Maigalganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2540.0,0.065594178861339,0.010908892214567034,27.90354,80.79754,district-name
+Uttar Pradesh | Mainpuri APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2551.0,-0.8550330353672808,0.009700647492194653,27.22857,79.02882,market-name
+Uttar Pradesh | Mathura APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2610.585,0.4071153846153752,0.006821122542577646,27.5035,77.67215,market-name
+Uttar Pradesh | Mau(Chitrakut) APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2478.99,-0.06359431863879328,0.010914561812348641,25.94167,83.56111,market-name
+Uttar Pradesh | Maudaha APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,0.0,0.01095748124490599,25.68312,80.11419,market-name
+Uttar Pradesh | Mauranipur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2400.0,-0.6982156710628407,0.010481627894750512,25.45887,78.57994,district-name
+Uttar Pradesh | Mehmoodabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2592.16,0.8157717161542122,0.007352500631640341,27.56192,80.68265,district-name
+Uttar Pradesh | Mehrauni APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2387.0375,2.9465673875400666,0.01555852615782756,24.69007,78.41915,district-name
+Uttar Pradesh | Mohammdi APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2621.6,2.823871564292868,0.009097819675114704,27.90354,80.79754,district-name
+Uttar Pradesh | Moth APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2612.1674999999996,0.11785707099307707,0.007698150237438446,25.72595,78.95029,market-name
+Uttar Pradesh | Muradabad APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2550.0,0.8077467788465853,0.005499667216853643,28.83893,78.77684,market-name
+Uttar Pradesh | Naanpara APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2535.56,3.1791278304410975,0.010897964714409823,27.57429,81.59474,district-name
+Uttar Pradesh | Naugarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2653.8675,3.07902796362145,0.013060045771457775,,,
+Uttar Pradesh | Nautnava APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2400.0,0.0,0.0,27.14456,83.56214,district-name
+Uttar Pradesh | Nawabganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2588.7225,0.7494750852803822,0.009526043907938686,26.93129,81.19841,market-name
+Uttar Pradesh | Orai APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2553.9325,2.8121103306961936,0.015435027630966314,25.99023,79.45334,market-name
+Uttar Pradesh | Paliakala APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2424.9049999999997,1.0377083333333204,0.004434465505536293,27.94822,80.77935,district-name
+Uttar Pradesh | Panchpedwa APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2380.0,0.0,0.008797525096150888,27.42949,82.18545,district-name
+Uttar Pradesh | Partaval APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2400.0,0.0,0.005493427582381004,27.14456,83.56214,district-name
+Uttar Pradesh | Powayan APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2640.3975,2.5717748655404993,0.009435148047897537,27.88165,79.90918,district-name
+Uttar Pradesh | Pratapgarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2482.87,3.452916666666672,0.014921419339218757,25.92058,81.99629,market-name
+Uttar Pradesh | Prayagraj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2383.0899999999997,-0.7618520145666108,0.018369912558440737,25.44478,81.84322,market-name
+Uttar Pradesh | Pukharayan APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2567.3325000000004,0.45329204078259355,0.006119986579301895,,,
+Uttar Pradesh | Purwa APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2496.6925,-0.1322999999999963,0.007211903421446486,26.45756,80.77403,market-name
+Uttar Pradesh | Raath APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2434.7200000000003,0.6502713942596161,0.007091241845915183,25.9553,80.14842,district-name
+Uttar Pradesh | Raibareilly APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2475.0,-1.0000000000000009,0.007727581901864958,,,
+Uttar Pradesh | Robertsganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2547.9425,-0.16505658943126722,0.008635255742253227,24.6886,83.06784,market-name
+Uttar Pradesh | Rudauli APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2523.8875,0.08099228937541447,0.011490053775751855,26.79909,82.2047,district-name
+Uttar Pradesh | Rura APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2481.955,-0.252989048528085,0.00825405165388974,26.49001,79.90108,market-name
+Uttar Pradesh | Safdarganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2506.64,1.3694115220637348,0.008499609489880634,,,
+Uttar Pradesh | Sahiyapur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2430.0,0.0,0.0,,,
+Uttar Pradesh | Salon APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2498.2650000000003,1.0416540276884767,0.01270688957366069,26.02857,81.45403,market-name
+Uttar Pradesh | Sandila APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2629.0625,0.8010405763428041,0.007989882320667767,27.06989,80.51497,market-name
+Uttar Pradesh | Sehjanwa APMC,Uttar Pradesh,2,"low premium vs region, low floor price (provisional)",2639.0924999999997,-3.5444085860376395,0.01407344741030784,26.76628,83.36889,district-name
+Uttar Pradesh | Shahabad(New Mandi) APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2500.0,-0.00789937594930512,0.00525906652221698,27.6431,79.9402,market-name
+Uttar Pradesh | Shahganj APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2591.825,-0.27395731729604744,0.0068787603271833475,26.04965,82.68423,market-name
+Uttar Pradesh | Shahjahanpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2544.44,0.769900990099015,0.005747669384356372,27.88165,79.90918,market-name
+Uttar Pradesh | Shohratgarh APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2550.0,4.081632653061229,0.00492361518167728,,,
+Uttar Pradesh | Sitapur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2491.1425,0.3089427293262892,0.007224896534466221,27.56192,80.68265,market-name
+Uttar Pradesh | Siyana APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2550.0,-3.9548022598870025,0.00653749869635657,,,
+Uttar Pradesh | Sultanpur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2463.3050000000003,0.5080885120585688,0.0006356651219108191,26.25788,82.07269,market-name
+Uttar Pradesh | Tulsipur APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2525.0,1.0000000000000009,0.003259479233066116,27.5337,82.41653,market-name
+Uttar Pradesh | Ujhani APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2600.0,1.7750946557310465,0.009593735943989734,28.00311,79.00821,market-name
+Uttar Pradesh | Unnao APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2565.58,0.022612085769968537,0.0011067193119511291,26.54706,80.48781,market-name
+Uttar Pradesh | Utraula APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2407.5,-0.5548481834995345,0.0013520541261412427,27.31933,82.41872,market-name
+Uttar Pradesh | Uttaripura APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2400.0,0.0,0.005216859667998825,26.46523,80.34975,district-name
+Uttar Pradesh | Viswan APMC,Uttar Pradesh,1,"low seasonality, low price trend (provisional)",2504.085,1.3930954617602298,0.010627399993378724,27.56192,80.68265,district-name
+Uttarakhand | Lakshar APMC,Uttarakhand,1,"low seasonality, low price trend (provisional)",2600.0,0.0,0.0014872389288857657,29.94791,78.16025,district-name
+West Bengal | Asansol APMC,West Bengal,1,"low seasonality, low price trend (provisional)",2741.25,-0.5893019038984537,0.011861199963201027,23.68333,86.98333,market-name
+West Bengal | Beldanga APMC,West Bengal,1,"low seasonality, low price trend (provisional)",2700.0,1.8867924528301883,0.006574062950531117,23.93428,88.26018,market-name
+West Bengal | Bishnupur(Bankura) APMC,West Bengal,1,"low seasonality, low price trend (provisional)",2700.0,0.0,0.0032393536321267615,23.0738,87.31991,market-name
+West Bengal | Durgapur APMC,West Bengal,1,"low seasonality, low price trend (provisional)",2748.75,-0.1815705855651384,0.011231200886708759,23.51583,87.30801,market-name
+West Bengal | Kandi APMC,West Bengal,1,"low seasonality, low price trend (provisional)",2750.0,0.0,0.0015014600279338777,23.95946,88.04018,market-name
+West Bengal | Karimpur APMC,West Bengal,0,"high peak price, high premium vs region (provisional)",2675.0,-7.758620689655171,0.029725078554275662,23.97594,88.61917,market-name
+West Bengal | Khatra APMC,West Bengal,1,"low seasonality, low price trend (provisional)",2700.0,0.0,0.002981953986841785,22.97617,86.85462,market-name

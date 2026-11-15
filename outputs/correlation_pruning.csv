@@ -1,0 +1,5 @@
+dropped,kept_partner,abs_r
+std_modal,cv,0.991
+mean_modal,median_modal,0.977
+cv,seasonal_amp,0.948
+range_ratio,seasonal_amp,0.912

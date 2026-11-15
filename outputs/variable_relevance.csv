@@ -1,0 +1,15 @@
+column,n_unique,pct_missing,decision,justification
+State,16,0.0,Keep (label only),Used post hoc to interpret clusters; NOT a clustering feature
+District,335,0.0,Drop,Nested inside Market/State; near-unique ID adds no behavioural signal
+Market,1366,0.0,Keep (unit ID),"Unit of analysis; an identifier, never a feature"
+Commodity_Group,1,0.0,Drop,Constant after commodity filter - carries no information
+Commodity,1,0.0,Drop,Constant after commodity filter - carries no information
+Variety,88,0.0,Keep (aggregated),Median across varieties/grades per market-week; mixing noted as a limitation
+Grade,6,0.0,Keep (aggregated),Median across varieties/grades per market-week; mixing noted as a limitation
+Min_Price,3053,0.0,Keep,Used for intraday spread (Max-Min)/Modal and data repair
+Max_Price,3817,0.0,Keep,Used for intraday spread (Max-Min)/Modal and data repair
+Modal_Price,19859,0.0,Keep,Primary price signal (most frequent traded price)
+Price_Unit,1,0.0,Drop,Constant after commodity filter - carries no information
+Arrivals,38215,0.0,Keep,Supply-side context
+Arrival_Unit,1,0.0,Drop,Constant after commodity filter - carries no information
+Arrival_Date,362,0.0,Keep,"Time index for weekly series, seasonality, trend"

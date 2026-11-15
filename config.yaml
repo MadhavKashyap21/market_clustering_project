@@ -1,0 +1,45 @@
+# Central configuration.
+commodity: Wheat
+data_path: data/agmarknet_wheat.csv.gz   # if missing -> labelled SYNTHETIC fallback is generated
+output_dir: outputs
+random_state: 42
+auto_adjust: false            # true = choose coverage / min rows / K range from the file (the upload app does this by default)
+
+k_min: 2
+k_max: 10
+n_init: 20
+min_k_for_selection: 3        # K=2 is too coarse for segmentation; excluded from final choice only
+min_cluster_frac: 0.05        # reject configurations with a cluster < 5% of markets
+prefer_distance: euclidean    # tie-break when Manhattan is not clearly better
+tie_tolerance: 0.02
+
+preprocessing:
+  min_coverage: 0.60          # min share of calendar days with a report (market kept if >=)
+  min_obs: 100                # min raw daily rows per market
+  max_gap_weeks: 4            # interpolate gaps up to this length (time-based)
+  winsorise: true
+  iqr_multiplier: 3.0         # Tukey fences = Q1 - k*IQR, Q3 + k*IQR (k=3 -> "far out" values only)
+  corr_threshold: 0.90
+  price_ratio_limit: 5        # Min/Max/Modal further than this factor from Modal/median = entry error
+
+stability:
+  n_seeds: 20
+  seed_n_init: 1              # single-start runs expose initialisation sensitivity
+  n_bootstrap: 50
+  bootstrap_frac: 0.80
+
+synthetic:
+  n_markets: 60
+  start: "2022-01-01"
+  end: "2024-12-31"
+
+advisor:                       # farmer-facing layer (SIH26132). Rates are ASSUMPTIONS to validate locally.
+  coordinates_path: data/mandi_coordinates.csv   # optional override: columns market_id,lat,lon
+  farmer_lat: 19.9975          # EXAMPLE farmer location - change to any place in India
+  farmer_lon: 73.7898
+  farmer_market: null          # or e.g. "Madhya Pradesh | Indore APMC" (State | Market from the CSV)
+  quantity_quintal: 50
+  transport_rate_per_quintal_km: 0.20   # Rs per quintal per km (truck, assumption)
+  road_factor: 1.3             # road km = straight-line km * factor
+  market_fee_pct: 1.0          # mandi fee/commission (assumption)
+  max_km: 600

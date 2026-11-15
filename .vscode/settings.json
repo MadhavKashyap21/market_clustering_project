@@ -1,0 +1,4 @@
+{
+  "code-runner.executorMapByGlob": { "app.py": "python -m streamlit run" },
+  "code-runner.runInTerminal": true
+}

@@ -1,0 +1,51 @@
+{
+  "data": "real Agmarknet data",
+  "commodity": "Wheat",
+  "n_rows_clean": 269406,
+  "n_markets_before_filter": 1379,
+  "n_markets": 426,
+  "n_features": 11,
+  "chosen_distance": "manhattan",
+  "chosen_k": 3,
+  "silhouette": 0.2269,
+  "davies_bouldin": 1.4844,
+  "cost": 2356.962,
+  "runner_up": "manhattan K=4",
+  "cluster_sizes": {
+    "0": 129,
+    "1": 148,
+    "2": 149
+  },
+  "cluster_names": {
+    "0": "high peak price, high premium vs region (provisional)",
+    "1": "low seasonality, low price trend (provisional)",
+    "2": "low premium vs region, low floor price (provisional)"
+  },
+  "ward_vs_kmeans_ARI": 0.3706,
+  "cophenetic_corr": 0.3887,
+  "stability_components": {
+    "Random seeds": 0.7632,
+    "Bootstrap 80%": 0.7738,
+    "Manhattan vs Euclidean": 0.4039,
+    "Sensitivity scenarios": 0.686
+  },
+  "stability_overall_ARI": 0.6567,
+  "stability_verdict": "moderately stable",
+  "top3_features": [
+    "max_price",
+    "seasonal_amp",
+    "trend_slope"
+  ],
+  "limitations": [
+    "Reporting gaps and uneven coverage: markets that report rarely are dropped or interpolated, so the clusters describe well-reporting mandis and may miss remote or low-volume ones.",
+    "Variety/grade mixing and arrival-quantity effects: prices are medians across varieties and grades, so quality or supply differences can masquerade as 'price behaviour'.",
+    "Method assumptions: K-Means favours compact, similar-sized spherical groups and is sensitive to scaling and outliers; PCA keeps only part of the variance; silhouette/Davies-Bouldin are heuristics, not truth."
+  ],
+  "pca_var_first2": 0.6022,
+  "advisor_demo": {
+    "best_net_market": "Maharashtra | APMC Mumbai",
+    "best_listed_market": "Maharashtra | APMC Mumbai",
+    "markets_with_coordinates": 404,
+    "origin": "19.997,73.790"
+  }
+}

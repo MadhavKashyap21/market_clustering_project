@@ -1,0 +1,427 @@
+market_id,lat,lon,coord_source
+Chattisgarh | Mungeli APMC,22.06566,81.68543,market-name
+Chattisgarh | Rajnandgaon APMC,21.09687,81.0289,market-name
+Gujarat | APMC Bagasara,21.48719,70.95516,market-name
+Gujarat | APMC HALVAD,23.01516,71.18029,market-name
+Gujarat | Babra APMC,21.84577,71.30544,market-name
+Gujarat | Bhiloda APMC,23.7676,73.24704,market-name
+Gujarat | Chotila APMC,22.42347,71.19641,market-name
+Gujarat | Dahod APMC,22.83283,74.25986,market-name
+Gujarat | Deesa APMC,24.25612,72.17928,market-name
+Gujarat | Dehgam APMC,23.16903,72.82161,market-name
+Gujarat | Dehgam(Rekhiyal) APMC,23.16903,72.82161,market-name
+Gujarat | Dhanera APMC,24.50967,72.02343,market-name
+Gujarat | Dhari APMC,21.32855,71.02645,market-name
+Gujarat | Dhoraji APMC,21.73359,70.45004,market-name
+Gujarat | Himatnagar APMC,23.59893,72.96602,market-name
+Gujarat | JASDAN APMC,22.03709,71.20794,market-name
+Gujarat | Jam Jodhpur APMC,21.90219,70.0357,market-name
+Gujarat | Jamnagar APMC,22.47292,70.06673,market-name
+Gujarat | Jetpur(Dist.Rajkot) APMC,21.75482,70.62347,market-name
+Gujarat | Junagadh APMC,21.51966,70.45981,market-name
+Gujarat | Kadi APMC,23.29908,72.33362,market-name
+Gujarat | Kalawad APMC,22.47292,70.06673,district-name
+Gujarat | Kalol APMC,23.24656,72.49508,market-name
+Gujarat | Khambhat(Grain Market) APMC,22.31744,72.61916,market-name
+Gujarat | Mahuva(Station Road) APMC,21.09007,71.76904,market-name
+Gujarat | Mansa APMC,23.42564,72.65739,market-name
+Gujarat | Meghraj APMC,23.49805,73.51352,market-name
+Gujarat | Mehsana APMC,23.59864,72.38472,market-name
+Gujarat | Mehsana(Jornang) APMC,23.59864,72.38472,market-name
+Gujarat | Modasa APMC,23.46253,73.29857,market-name
+Gujarat | Modasa(Tintoi) APMC,23.46253,73.29857,market-name
+Gujarat | Morbi APMC,22.81731,70.8377,market-name
+Gujarat | Morva Hafad APMC,,,
+Gujarat | Palanpur APMC,24.17128,72.43827,market-name
+Gujarat | Palitana APMC,21.52519,71.82309,market-name
+Gujarat | Patan APMC,23.8507,72.12963,market-name
+Gujarat | Porbandar APMC,21.64219,69.60929,market-name
+Gujarat | Radhanpur APMC,23.83238,71.6047,market-name
+Gujarat | Rajkot APMC,22.29161,70.79322,market-name
+Gujarat | Rajula APMC,21.03854,71.44345,market-name
+Gujarat | Sanad APMC,23.02579,72.58727,district-name
+Gujarat | Savarkundla APMC,21.33726,71.3035,market-name
+Gujarat | Siddhpur APMC,23.8507,72.12963,district-name
+Gujarat | Taleja APMC,21.76287,72.15331,district-name
+Gujarat | Thara APMC,23.97345,71.81922,market-name
+Gujarat | The Agricultural Produce Market Committee-Amreli,21.59983,71.21169,district-name
+Gujarat | Vadali APMC,23.94232,73.03784,market-name
+Gujarat | Vankaner APMC,22.81731,70.8377,district-name
+Gujarat | Veraval APMC,20.9077,70.36786,market-name
+Gujarat | Viramgam APMC,23.12564,72.05014,market-name
+Gujarat | Visavadar APMC,21.33954,70.74966,market-name
+Gujarat | Visnagar APMC,23.69855,72.5521,market-name
+Karnataka | Vijayapura APMC,16.82442,75.71537,market-name
+Madhya Pradesh | A lot APMC,23.76336,75.55662,market-name
+Madhya Pradesh | Agar APMC,23.71177,76.01571,market-name
+Madhya Pradesh | Ajaygarh APMC,24.72094,80.18772,district-name
+Madhya Pradesh | Alampur APMC,26.02514,78.79697,market-name
+Madhya Pradesh | Alirajpur APMC,22.30393,74.35568,market-name
+Madhya Pradesh | Amarpatan APMC,24.31371,80.97703,market-name
+Madhya Pradesh | Anjad APMC,22.04171,75.05519,market-name
+Madhya Pradesh | Aron APMC,24.38109,77.41739,market-name
+Madhya Pradesh | Ashoknagar APMC,24.57578,77.73123,market-name
+Madhya Pradesh | Ashta APMC,23.01754,76.72208,market-name
+Madhya Pradesh | Badamalhera APMC,24.56412,79.30712,market-name
+Madhya Pradesh | Badarwas APMC,24.97516,77.5649,market-name
+Madhya Pradesh | Badnagar APMC,23.18239,75.77643,district-name
+Madhya Pradesh | Badnawar APMC,23.02181,75.23268,market-name
+Madhya Pradesh | Badod APMC,23.78891,75.81159,market-name
+Madhya Pradesh | Badwaha APMC,21.82292,75.61394,district-name
+Madhya Pradesh | Badwani APMC,,,
+Madhya Pradesh | Baikunthpur APMC,24.72768,81.40975,market-name
+Madhya Pradesh | Bamora APMC,24.05539,78.08925,market-name
+Madhya Pradesh | Banapura APMC,22.74747,77.72736,district-name
+Madhya Pradesh | Banda APMC,24.04488,78.96094,market-name
+Madhya Pradesh | Bankhedi APMC,22.74747,77.72736,district-name
+Madhya Pradesh | Barad APMC,25.42378,77.66223,district-name
+Madhya Pradesh | Bareli APMC,23.00445,78.2301,market-name
+Madhya Pradesh | Begamganj APMC,23.59917,78.34064,market-name
+Madhya Pradesh | Beohari APMC,24.02423,81.37831,market-name
+Madhya Pradesh | Berasia APMC,23.63134,77.43351,market-name
+Madhya Pradesh | Betul APMC,21.90056,77.90229,market-name
+Madhya Pradesh | Bhander APMC,25.73581,78.74555,market-name
+Madhya Pradesh | Bherunda (Nasrullaganj) APMC,23.2,77.08333,district-name
+Madhya Pradesh | Bhikangaon APMC,21.86764,75.96391,market-name
+Madhya Pradesh | Bhind APMC,26.56671,78.78728,market-name
+Madhya Pradesh | Bhitarwar APMC,25.79216,78.11085,market-name
+Madhya Pradesh | Bhopal APMC,23.25469,77.40289,market-name
+Madhya Pradesh | Biaora APMC,23.9205,76.91074,market-name
+Madhya Pradesh | Bijawar APMC,24.62351,79.48994,market-name
+Madhya Pradesh | Bina APMC,24.17161,78.18755,market-name
+Madhya Pradesh | Binaganj APMC,24.64691,77.3113,district-name
+Madhya Pradesh | Burhanpur APMC,21.30868,76.23026,market-name
+Madhya Pradesh | Chaakghat APMC,24.53256,81.29234,district-name
+Madhya Pradesh | Chanderi APMC,24.71312,78.13809,market-name
+Madhya Pradesh | Chaurai APMC,22.05459,79.25195,market-name
+Madhya Pradesh | Chhapiheda APMC,23.89484,76.45378,market-name
+Madhya Pradesh | Chhatarpur APMC,24.9177,79.58871,market-name
+Madhya Pradesh | Chhindwara APMC,22.05697,78.93958,market-name
+Madhya Pradesh | Dabra APMC,25.88572,78.33221,market-name
+Madhya Pradesh | Daloda APMC,24.07184,75.06986,district-name
+Madhya Pradesh | Damoh APMC,23.83312,79.4419,market-name
+Madhya Pradesh | Datia APMC,25.67312,78.45908,market-name
+Madhya Pradesh | Deori APMC,23.39017,79.0163,market-name
+Madhya Pradesh | Devandranagar APMC,24.72094,80.18772,district-name
+Madhya Pradesh | Dewas APMC,22.96585,76.05526,market-name
+Madhya Pradesh | Dhamnod APMC,22.20928,75.47057,market-name
+Madhya Pradesh | Dhar APMC,22.59373,75.29774,market-name
+Madhya Pradesh | Dindori APMC,22.94141,81.07975,market-name
+Madhya Pradesh | Gadakota APMC,23.83877,78.73874,district-name
+Madhya Pradesh | Gadarwada APMC,22.94936,79.18357,district-name
+Madhya Pradesh | Gairatganj APMC,23.41022,78.22082,market-name
+Madhya Pradesh | Gandhwani APMC,22.59373,75.29774,district-name
+Madhya Pradesh | Ganjbasoda APMC,23.52604,77.81092,district-name
+Madhya Pradesh | Garoth APMC,24.32342,75.65204,market-name
+Madhya Pradesh | Gautampura APMC,22.98664,75.51921,market-name
+Madhya Pradesh | Gohad APMC,26.43278,78.44205,market-name
+Madhya Pradesh | Gotegaon APMC,23.02888,79.48233,market-name
+Madhya Pradesh | Guna APMC,24.64691,77.3113,market-name
+Madhya Pradesh | Haatpipliya APMC,22.96585,76.05526,district-name
+Madhya Pradesh | Hanumana APMC,24.77888,82.096,market-name
+Madhya Pradesh | Harda APMC,22.34414,77.09536,market-name
+Madhya Pradesh | Harpalpur APMC,25.28773,79.33279,market-name
+Madhya Pradesh | Harsood APMC,21.82427,76.35086,district-name
+Madhya Pradesh | Ichhawar APMC,23.02816,77.01729,market-name
+Madhya Pradesh | Indore APMC,22.71792,75.8333,market-name
+Madhya Pradesh | Isagarh APMC,24.83906,77.88274,market-name
+Madhya Pradesh | Itarsi APMC,22.61477,77.76222,market-name
+Madhya Pradesh | Jabalpur APMC,23.16697,79.95006,market-name
+Madhya Pradesh | Jaora APMC,23.63783,75.12711,market-name
+Madhya Pradesh | Jatara APMC,25.00964,79.04869,market-name
+Madhya Pradesh | Javera APMC,23.83312,79.4419,district-name
+Madhya Pradesh | Jawar APMC,23.00943,76.5007,market-name
+Madhya Pradesh | Jeerapur APMC,24.00826,76.7325,district-name
+Madhya Pradesh | Jhabua APMC,22.76772,74.59087,market-name
+Madhya Pradesh | Jobat APMC,22.41599,74.56828,market-name
+Madhya Pradesh | Kailaras APMC,26.30498,77.616,market-name
+Madhya Pradesh | Kalapipal APMC,23.42637,76.27775,district-name
+Madhya Pradesh | Kannod APMC,22.66764,76.74286,market-name
+Madhya Pradesh | Kareli APMC,22.91533,79.06378,market-name
+Madhya Pradesh | Karera APMC,25.45815,78.13583,market-name
+Madhya Pradesh | Karhi APMC,21.82292,75.61394,district-name
+Madhya Pradesh | Kasrawad APMC,22.12745,75.61101,market-name
+Madhya Pradesh | Katni APMC,23.83776,80.39405,market-name
+Madhya Pradesh | Kesli APMC,23.83877,78.73874,district-name
+Madhya Pradesh | Khachrod APMC,23.42322,75.28185,market-name
+Madhya Pradesh | Khandwa APMC,21.82427,76.35086,market-name
+Madhya Pradesh | Khaniadhana APMC,25.42378,77.66223,district-name
+Madhya Pradesh | Khargapur APMC,24.823,79.144,market-name
+Madhya Pradesh | Khargone APMC,21.82292,75.61394,market-name
+Madhya Pradesh | Khategaon APMC,22.59573,76.9133,market-name
+Madhya Pradesh | Khilchipur APMC,24.03943,76.578,market-name
+Madhya Pradesh | Khirkiya APMC,22.16732,76.86137,market-name
+Madhya Pradesh | Khujner APMC,23.78597,76.61773,market-name
+Madhya Pradesh | Khurai APMC,24.04372,78.33014,market-name
+Madhya Pradesh | Kolaras APMC,25.21928,77.61167,market-name
+Madhya Pradesh | Krishi Upaj Mandi Samiti Bichhiya,22.59879,80.37115,district-name
+Madhya Pradesh | Kukshi APMC,22.20677,74.75788,market-name
+Madhya Pradesh | Kumbhraj APMC,24.37338,77.04841,market-name
+Madhya Pradesh | Lahar APMC,26.19401,78.94137,market-name
+Madhya Pradesh | Lakhnadon APMC,22.60049,79.60094,market-name
+Madhya Pradesh | Lashkar APMC,26.22983,78.17337,district-name
+Madhya Pradesh | Lateri APMC,24.06091,77.41044,market-name
+Madhya Pradesh | LavKush Nagar(Laundi) APMC,25.13962,80.00112,market-name
+Madhya Pradesh | Loharda APMC,22.59183,76.59569,market-name
+Madhya Pradesh | Magroni APMC,25.42378,77.66223,district-name
+Madhya Pradesh | Mahidpur APMC,23.48879,75.658,market-name
+Madhya Pradesh | Maihar APMC,24.26594,80.76063,market-name
+Madhya Pradesh | Maksudangarh APMC,24.64691,77.3113,district-name
+Madhya Pradesh | Manasa APMC,,,
+Madhya Pradesh | Manawar APMC,22.23566,75.08917,market-name
+Madhya Pradesh | Mandla APMC,22.59879,80.37115,market-name
+Madhya Pradesh | Mandsaur APMC,24.07184,75.06986,market-name
+Madhya Pradesh | Mehgaon APMC,26.49471,78.61593,market-name
+Madhya Pradesh | Mhow (Ambedkar Nagar) APMC,22.5589,75.76543,market-name
+Madhya Pradesh | Morena APMC,26.49892,77.99534,market-name
+Madhya Pradesh | Mow APMC,26.56671,78.78728,district-name
+Madhya Pradesh | Mundi APMC,22.06693,76.49326,market-name
+Madhya Pradesh | Mungawali APMC,24.57578,77.73123,district-name
+Madhya Pradesh | Nagda APMC,23.45834,75.41759,market-name
+Madhya Pradesh | Nagod APMC,24.56924,80.58809,market-name
+Madhya Pradesh | Nalkheda APMC,23.83602,76.24316,market-name
+Madhya Pradesh | Narsinghgarh APMC,23.70758,77.09319,market-name
+Madhya Pradesh | Narsinghpur APMC,22.94936,79.18357,market-name
+Madhya Pradesh | Naugaon APMC,24.9177,79.58871,district-name
+Madhya Pradesh | Neemuch APMC,,,
+Madhya Pradesh | Niwadi APMC,,,
+Madhya Pradesh | Obedullaganj APMC,22.99834,77.58621,market-name
+Madhya Pradesh | Paatan APMC,23.16697,79.95006,district-name
+Madhya Pradesh | Pachaur APMC,24.00826,76.7325,district-name
+Madhya Pradesh | Palera APMC,25.02013,79.22818,market-name
+Madhya Pradesh | Pandhana APMC,21.69816,76.22487,market-name
+Madhya Pradesh | Panna APMC,24.72094,80.18772,market-name
+Madhya Pradesh | Patharia APMC,23.89921,79.19393,market-name
+Madhya Pradesh | Petlawad APMC,23.01102,74.79772,market-name
+Madhya Pradesh | Pichhour APMC,25.42378,77.66223,district-name
+Madhya Pradesh | Pipariya APMC,22.74747,77.72736,district-name
+Madhya Pradesh | Piplya APMC,24.19511,75.00603,market-name
+Madhya Pradesh | Pohari APMC,25.42378,77.66223,district-name
+Madhya Pradesh | Raghogarh APMC,24.44318,77.19768,market-name
+Madhya Pradesh | Rahatgarh APMC,23.78968,78.39473,market-name
+Madhya Pradesh | Raisen APMC,23.33033,77.7811,market-name
+Madhya Pradesh | Rajgarh APMC,24.00826,76.7325,market-name
+Madhya Pradesh | Rajnagar APMC,24.88929,79.91178,market-name
+Madhya Pradesh | Ratlam APMC,23.33033,75.04032,market-name
+Madhya Pradesh | Rehati APMC,22.73781,77.43399,market-name
+Madhya Pradesh | Rehli APMC,23.63722,79.06275,market-name
+Madhya Pradesh | Rewa APMC,24.53256,81.29234,market-name
+Madhya Pradesh | Sabalgarh APMC,26.24918,77.40786,market-name
+Madhya Pradesh | Sagar APMC,23.83877,78.73874,market-name
+Madhya Pradesh | Sailana APMC,23.46219,74.92318,market-name
+Madhya Pradesh | Sanawad APMC,22.17391,76.06993,market-name
+Madhya Pradesh | Sanwer APMC,22.97415,75.8271,market-name
+Madhya Pradesh | Sarangpur APMC,23.56651,76.47306,market-name
+Madhya Pradesh | Satna APMC,24.57726,80.82719,market-name
+Madhya Pradesh | Sehora APMC,23.16697,79.95006,district-name
+Madhya Pradesh | Sehore APMC,23.2,77.08333,market-name
+Madhya Pradesh | Semriharchand APMC,22.74747,77.72736,district-name
+Madhya Pradesh | Sendhwa APMC,21.68562,75.09622,market-name
+Madhya Pradesh | Seoni APMC,22.08503,79.55037,market-name
+Madhya Pradesh | Sevda APMC,25.67312,78.45908,district-name
+Madhya Pradesh | Shahagarh APMC,23.83877,78.73874,district-name
+Madhya Pradesh | Shahdol APMC,23.29356,81.3619,market-name
+Madhya Pradesh | Shahpura Bhitoni (F&V) APMC,23.16697,79.95006,district-name
+Madhya Pradesh | Shajapur APMC,23.42637,76.27775,market-name
+Madhya Pradesh | Shamgarh APMC,24.18817,75.63903,market-name
+Madhya Pradesh | Shamshabad APMC,23.52604,77.81092,district-name
+Madhya Pradesh | Sheopurbadod APMC,25.66472,76.69616,district-name
+Madhya Pradesh | Sheopurkalan APMC,25.66472,76.69616,market-name
+Madhya Pradesh | Shivpuri APMC,25.42378,77.66223,market-name
+Madhya Pradesh | Shujalpur APMC,23.40673,76.7098,market-name
+Madhya Pradesh | Shyampur APMC,23.2,77.08333,district-name
+Madhya Pradesh | Sidhi APMC,24.4038,81.87954,market-name
+Madhya Pradesh | Silvani APMC,23.3026,78.44076,market-name
+Madhya Pradesh | Sirali APMC,22.34414,77.09536,district-name
+Madhya Pradesh | Sironj APMC,24.10313,77.69055,market-name
+Madhya Pradesh | Sitamau APMC,24.01473,75.35324,market-name
+Madhya Pradesh | Sonkatch APMC,22.97166,76.34667,market-name
+Madhya Pradesh | Susner APMC,23.94667,76.08825,market-name
+Madhya Pradesh | Taal APMC,23.33033,75.04032,district-name
+Madhya Pradesh | Tarana APMC,23.33383,76.04253,market-name
+Madhya Pradesh | Thandla APMC,23.00959,74.57747,market-name
+Madhya Pradesh | Tikamgarh APMC,24.74327,78.83061,market-name
+Madhya Pradesh | Timarni APMC,22.34414,77.09536,district-name
+Madhya Pradesh | Udaipura APMC,23.07434,78.51108,market-name
+Madhya Pradesh | Ujjain APMC,23.18239,75.77643,market-name
+Madhya Pradesh | Umariya APMC,,,
+Madhya Pradesh | Unhel APMC,23.33794,75.55931,market-name
+Madhya Pradesh | Vidisha APMC,23.52604,77.81092,market-name
+Madhya Pradesh | Vijaypur APMC,26.05052,77.37138,market-name
+Maharashtra | APMC Akola,20.70957,76.9981,market-name
+Maharashtra | APMC Amarawati,,,
+Maharashtra | APMC Chattrapati Sambhajinagar,,,
+Maharashtra | APMC Deoulgaon Raja,,,
+Maharashtra | APMC Hinganghat,20.54875,78.83978,market-name
+Maharashtra | APMC Jalana,19.84102,75.88636,district-name
+Maharashtra | APMC Kalyan,19.2437,73.13554,market-name
+Maharashtra | APMC Karmala,18.4077,75.19386,market-name
+Maharashtra | APMC Katol,21.27388,78.5858,market-name
+Maharashtra | APMC Kopargaon,19.88239,74.47605,market-name
+Maharashtra | APMC Majalgaon,19.15513,76.20992,market-name
+Maharashtra | APMC Malegaon,20.54966,74.53462,market-name
+Maharashtra | APMC Malkapur,20.88555,76.19932,market-name
+Maharashtra | APMC Mumbai,19.07283,72.88261,market-name
+Maharashtra | APMC Murtizapur,20.70957,76.9981,district-name
+Maharashtra | APMC Nagpur,21.14631,79.08491,market-name
+Maharashtra | APMC Pachora,20.66727,75.35305,market-name
+Maharashtra | APMC Paithan,19.47506,75.38558,market-name
+Maharashtra | APMC Rahuri,19.39069,74.64979,market-name
+Maharashtra | APMC Solapur,17.67152,75.91044,market-name
+Maharashtra | Lasalgaon(Niphad),20.1427,74.23946,market-name
+Maharashtra | Rahuri(Vambori),19.39069,74.64979,market-name
+Maharashtra | Shevgaon(Bodhegaon),19.09457,74.73843,district-name
+NCT of Delhi | APMC Najafgarh,28.60922,76.97982,market-name
+Rajasthan | Anta APMC,25.15,76.3,market-name
+Rajasthan | Atru APMC,24.87686,76.66105,market-name
+Rajasthan | Baran APMC,25.1,76.51667,market-name
+Rajasthan | Bassi APMC,26.8315,76.04856,market-name
+Rajasthan | Bhawani Mandi APMC,24.59633,76.16499,district-name
+Rajasthan | Choumahla APMC,24.59633,76.16499,district-name
+Rajasthan | Deeg APMC,27.47188,77.32564,market-name
+Rajasthan | Dei APMC,25.43855,75.63735,district-name
+Rajasthan | Deoli APMC,25.75728,75.37991,market-name
+Rajasthan | Dooni APMC,26.16638,75.78824,district-name
+Rajasthan | Fatehnagar APMC,24.81494,74.09504,market-name
+Rajasthan | Hindoun APMC,26.49831,77.02755,district-name
+Rajasthan | Iklera APMC,24.59633,76.16499,district-name
+Rajasthan | Itawa APMC,25.18254,75.83907,district-name
+Rajasthan | Jhalarapatan APMC,24.59633,76.16499,district-name
+Rajasthan | Khanpur APMC,24.59633,76.16499,district-name
+Rajasthan | Kherli APMC,27.27359,76.98613,market-name
+Rajasthan | Lalsot APMC,26.55951,76.32915,market-name
+Rajasthan | Madanganj Kishangarh APMC,26.4521,74.63867,district-name
+Rajasthan | Malpura APMC,26.2838,75.36458,market-name
+Rajasthan | Mandawar APMC,27.11743,76.91091,market-name
+Rajasthan | Mandawari APMC,26.89,76.33584,district-name
+Rajasthan | Niwai APMC,26.36073,75.91836,market-name
+Rajasthan | Pratapgarh APMC,24.03215,74.78162,market-name
+Rajasthan | Ramganjmandi APMC,25.18254,75.83907,district-name
+Rajasthan | Samraniyan APMC,25.1,76.51667,district-name
+Rajasthan | Sumerganj APMC,25.72985,76.23143,market-name
+Uttar Pradesh | Achalda APMC,26.46517,79.50918,district-name
+Uttar Pradesh | Achnera APMC,27.17826,77.75674,market-name
+Uttar Pradesh | Ait APMC,26.1451,79.3366,district-name
+Uttar Pradesh | Akbarpur APMC,26.42953,82.53431,market-name
+Uttar Pradesh | Aligarh APMC,27.88145,78.07464,market-name
+Uttar Pradesh | Anandnagar APMC,27.10062,83.27156,market-name
+Uttar Pradesh | Atarra APMC,25.28618,80.57155,market-name
+Uttar Pradesh | Auraiya APMC,26.46517,79.50918,market-name
+Uttar Pradesh | Ayodhya APMC,26.79909,82.2047,market-name
+Uttar Pradesh | Azamgarh APMC,26.06832,83.18358,market-name
+Uttar Pradesh | Bachranwa APMC,,,
+Uttar Pradesh | Badayoun APMC,28.03811,79.12668,district-name
+Uttar Pradesh | Bahraich APMC,27.57429,81.59474,market-name
+Uttar Pradesh | Balrampur APMC,27.42949,82.18545,market-name
+Uttar Pradesh | Banda APMC,25.47758,80.33491,market-name
+Uttar Pradesh | Bangarmau APMC,26.8912,80.21149,market-name
+Uttar Pradesh | Bansi APMC,27.17749,82.93442,market-name
+Uttar Pradesh | Banthara APMC,26.83928,80.92313,district-name
+Uttar Pradesh | Barabanki APMC,,,
+Uttar Pradesh | Bareilly APMC,28.36678,79.43167,market-name
+Uttar Pradesh | Baripaal APMC,26.46523,80.34975,district-name
+Uttar Pradesh | Basti APMC,26.78817,82.71617,market-name
+Uttar Pradesh | Bharthna APMC,26.77615,79.02133,district-name
+Uttar Pradesh | Bharuasumerpur APMC,25.9553,80.14842,district-name
+Uttar Pradesh | Bharwari APMC,25.56078,81.49164,market-name
+Uttar Pradesh | Bhinga APMC,27.70283,81.9343,market-name
+Uttar Pradesh | Bindki APMC,26.03613,80.57617,market-name
+Uttar Pradesh | Buland Shahr APMC,28.40392,77.85773,market-name
+Uttar Pradesh | Charkhari APMC,25.40304,79.74877,market-name
+Uttar Pradesh | Charra APMC,27.88145,78.07464,district-name
+Uttar Pradesh | Chirgaon APMC,25.57198,78.81432,market-name
+Uttar Pradesh | Choubepur APMC,26.46523,80.34975,district-name
+Uttar Pradesh | Devariya APMC,26.50167,83.77936,market-name
+Uttar Pradesh | Dibiapur APMC,26.46517,79.50918,district-name
+Uttar Pradesh | Etah APMC,27.55879,78.65692,market-name
+Uttar Pradesh | Fatehpur APMC,25.92774,80.81266,market-name
+Uttar Pradesh | Firozabad APMC,27.15092,78.39781,market-name
+Uttar Pradesh | Golagokarnath APMC,27.94822,80.77935,district-name
+Uttar Pradesh | Gonda APMC,27.13181,81.95332,market-name
+Uttar Pradesh | Gorakhpur APMC,26.76628,83.36889,market-name
+Uttar Pradesh | Gurusarai APMC,25.45887,78.57994,district-name
+Uttar Pradesh | Haathras APMC,27.59551,78.05201,district-name
+Uttar Pradesh | Hapur APMC,28.72985,77.78068,market-name
+Uttar Pradesh | Hardoi APMC,27.39491,80.13165,market-name
+Uttar Pradesh | Hargaon (Laharpur) APMC,27.56192,80.68265,district-name
+Uttar Pradesh | Jafarganj APMC,26.15696,81.80519,district-name
+Uttar Pradesh | Jagnair APMC,26.8636,77.60231,market-name
+Uttar Pradesh | Jahanabad APMC,28.63025,79.71818,market-name
+Uttar Pradesh | Jahangirabad APMC,,,
+Uttar Pradesh | Jalalabad APMC,27.72625,79.65523,market-name
+Uttar Pradesh | Jalaun APMC,26.1451,79.3366,market-name
+Uttar Pradesh | Jaunpur APMC,25.75356,82.68689,market-name
+Uttar Pradesh | Jayas APMC,,,
+Uttar Pradesh | Jhansi APMC,25.45887,78.57994,market-name
+Uttar Pradesh | Jhijhank APMC,,,
+Uttar Pradesh | Kannauj APMC,27.05524,79.9188,market-name
+Uttar Pradesh | Kanpur(Grain) APMC,26.46523,80.34975,market-name
+Uttar Pradesh | Karvi APMC,,,
+Uttar Pradesh | Kasganj APMC,27.80882,78.64579,market-name
+Uttar Pradesh | Khairagarh APMC,26.94352,77.81816,market-name
+Uttar Pradesh | Khalilabad APMC,26.77268,83.07179,market-name
+Uttar Pradesh | Khurja APMC,28.25382,77.85535,market-name
+Uttar Pradesh | Konch APMC,25.99451,79.15127,market-name
+Uttar Pradesh | Kosikalan APMC,27.5035,77.67215,district-name
+Uttar Pradesh | Lakhimpur APMC,27.94822,80.77935,market-name
+Uttar Pradesh | Lalganj APMC,25.93182,81.70478,market-name
+Uttar Pradesh | Lalitpur APMC,24.69007,78.41915,market-name
+Uttar Pradesh | Lucknow APMC,26.83928,80.92313,market-name
+Uttar Pradesh | Madhoganj APMC,27.11807,80.14058,market-name
+Uttar Pradesh | Madhogarh APMC,26.27522,79.1859,market-name
+Uttar Pradesh | Mahoba APMC,25.2905,79.87533,market-name
+Uttar Pradesh | Maigalganj APMC,27.90354,80.79754,district-name
+Uttar Pradesh | Mainpuri APMC,27.22857,79.02882,market-name
+Uttar Pradesh | Mathura APMC,27.5035,77.67215,market-name
+Uttar Pradesh | Mau(Chitrakut) APMC,25.94167,83.56111,market-name
+Uttar Pradesh | Maudaha APMC,25.68312,80.11419,market-name
+Uttar Pradesh | Mauranipur APMC,25.45887,78.57994,district-name
+Uttar Pradesh | Mehmoodabad APMC,27.56192,80.68265,district-name
+Uttar Pradesh | Mehrauni APMC,24.69007,78.41915,district-name
+Uttar Pradesh | Mohammdi APMC,27.90354,80.79754,district-name
+Uttar Pradesh | Moth APMC,25.72595,78.95029,market-name
+Uttar Pradesh | Muradabad APMC,28.83893,78.77684,market-name
+Uttar Pradesh | Naanpara APMC,27.57429,81.59474,district-name
+Uttar Pradesh | Naugarh APMC,,,
+Uttar Pradesh | Nautnava APMC,27.14456,83.56214,district-name
+Uttar Pradesh | Nawabganj APMC,26.93129,81.19841,market-name
+Uttar Pradesh | Orai APMC,25.99023,79.45334,market-name
+Uttar Pradesh | Paliakala APMC,27.94822,80.77935,district-name
+Uttar Pradesh | Panchpedwa APMC,27.42949,82.18545,district-name
+Uttar Pradesh | Partaval APMC,27.14456,83.56214,district-name
+Uttar Pradesh | Powayan APMC,27.88165,79.90918,district-name
+Uttar Pradesh | Pratapgarh APMC,25.92058,81.99629,market-name
+Uttar Pradesh | Prayagraj APMC,25.44478,81.84322,market-name
+Uttar Pradesh | Pukharayan APMC,,,
+Uttar Pradesh | Purwa APMC,26.45756,80.77403,market-name
+Uttar Pradesh | Raath APMC,25.9553,80.14842,district-name
+Uttar Pradesh | Raibareilly APMC,,,
+Uttar Pradesh | Robertsganj APMC,24.6886,83.06784,market-name
+Uttar Pradesh | Rudauli APMC,26.79909,82.2047,district-name
+Uttar Pradesh | Rura APMC,26.49001,79.90108,market-name
+Uttar Pradesh | Safdarganj APMC,,,
+Uttar Pradesh | Sahiyapur APMC,,,
+Uttar Pradesh | Salon APMC,26.02857,81.45403,market-name
+Uttar Pradesh | Sandila APMC,27.06989,80.51497,market-name
+Uttar Pradesh | Sehjanwa APMC,26.76628,83.36889,district-name
+Uttar Pradesh | Shahabad(New Mandi) APMC,27.6431,79.9402,market-name
+Uttar Pradesh | Shahganj APMC,26.04965,82.68423,market-name
+Uttar Pradesh | Shahjahanpur APMC,27.88165,79.90918,market-name
+Uttar Pradesh | Shohratgarh APMC,,,
+Uttar Pradesh | Sitapur APMC,27.56192,80.68265,market-name
+Uttar Pradesh | Siyana APMC,,,
+Uttar Pradesh | Sultanpur APMC,26.25788,82.07269,market-name
+Uttar Pradesh | Tulsipur APMC,27.5337,82.41653,market-name
+Uttar Pradesh | Ujhani APMC,28.00311,79.00821,market-name
+Uttar Pradesh | Unnao APMC,26.54706,80.48781,market-name
+Uttar Pradesh | Utraula APMC,27.31933,82.41872,market-name
+Uttar Pradesh | Uttaripura APMC,26.46523,80.34975,district-name
+Uttar Pradesh | Viswan APMC,27.56192,80.68265,district-name
+Uttarakhand | Lakshar APMC,29.94791,78.16025,district-name
+West Bengal | Asansol APMC,23.68333,86.98333,market-name
+West Bengal | Beldanga APMC,23.93428,88.26018,market-name
+West Bengal | Bishnupur(Bankura) APMC,23.0738,87.31991,market-name
+West Bengal | Durgapur APMC,23.51583,87.30801,market-name
+West Bengal | Kandi APMC,23.95946,88.04018,market-name
+West Bengal | Karimpur APMC,23.97594,88.61917,market-name
+West Bengal | Khatra APMC,22.97617,86.85462,market-name

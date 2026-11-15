@@ -1,0 +1,954 @@
+market_id,n_obs,coverage,keep,reason
+Bihar | Aurangabad APMC,6,0.016574585635359115,False,coverage < 60%
+Bihar | Bahadurganj APMC,13,0.03591160220994475,False,coverage < 60%
+Bihar | Barbigha APMC,142,0.39226519337016574,False,coverage < 60%
+Bihar | Bihariganj APMC,5,0.013812154696132596,False,coverage < 60%
+Bihar | Jainagar APMC,8,0.022099447513812154,False,coverage < 60%
+Bihar | Kishanganj APMC,22,0.06077348066298342,False,coverage < 60%
+Bihar | Lakhisarai APMC,5,0.013812154696132596,False,coverage < 60%
+Bihar | Muzaffarpur APMC,37,0.10220994475138122,False,coverage < 60%
+Bihar | Saidpurhat APMC,4,0.011049723756906077,False,coverage < 60%
+Bihar | Shekhpura APMC,141,0.38950276243093923,False,coverage < 60%
+Chattisgarh | Ambikapur APMC,58,0.16022099447513813,False,coverage < 60%
+Chattisgarh | Baikunthpur APMC,36,0.09944751381215469,False,coverage < 60%
+Chattisgarh | Baramkela APMC,3,0.008287292817679558,False,coverage < 60%
+Chattisgarh | Bariya APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Bemetara APMC,23,0.06353591160220995,False,coverage < 60%
+Chattisgarh | Bemetara(Navagarh) APMC,17,0.04696132596685083,False,coverage < 60%
+Chattisgarh | Bemetara(Thankhamaria) APMC,8,0.022099447513812154,False,coverage < 60%
+Chattisgarh | Berla APMC,5,0.013812154696132596,False,coverage < 60%
+Chattisgarh | Bhatapara APMC,163,0.43370165745856354,False,coverage < 60%
+Chattisgarh | Bilaspur APMC,111,0.287292817679558,False,coverage < 60%
+Chattisgarh | Bilha APMC,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Biranpur kalan (Sahaspur Lohra) APMC,32,0.08839779005524862,False,coverage < 60%
+Chattisgarh | Dadhi APMC,8,0.022099447513812154,False,coverage < 60%
+Chattisgarh | Dhamtari APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Dondi APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Dondilohara APMC,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Dongargarh APMC,8,0.022099447513812154,False,coverage < 60%
+Chattisgarh | Durg APMC,13,0.03591160220994475,False,coverage < 60%
+Chattisgarh | Gandai APMC,36,0.09944751381215469,False,coverage < 60%
+Chattisgarh | Jagdalpur APMC,3,0.008287292817679558,False,coverage < 60%
+Chattisgarh | Jashpur APMC,3,0.008287292817679558,False,coverage < 60%
+Chattisgarh | KRISHI UPAJ MANDI SAMITI (APMC) KANKER,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Katghora APMC,12,0.03314917127071823,False,coverage < 60%
+Chattisgarh | Kawardha APMC,110,0.30386740331491713,False,coverage < 60%
+Chattisgarh | Kedar APMC,5,0.013812154696132596,False,coverage < 60%
+Chattisgarh | Keshkal APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Kharora APMC,6,0.016574585635359115,False,coverage < 60%
+Chattisgarh | Kharsiya APMC,16,0.04419889502762431,False,coverage < 60%
+Chattisgarh | Kheragarh APMC,36,0.09944751381215469,False,coverage < 60%
+Chattisgarh | Kota APMC,17,0.04696132596685083,False,coverage < 60%
+Chattisgarh | Kotba APMC,3,0.008287292817679558,False,coverage < 60%
+Chattisgarh | Kunda APMC,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Kunkuri APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Kurud APMC,21,0.058011049723756904,False,coverage < 60%
+Chattisgarh | Kusmee APMC,10,0.027624309392265192,False,coverage < 60%
+Chattisgarh | Lormi APMC,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Mahasamund APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Manendragarh APMC,40,0.10773480662983426,False,coverage < 60%
+Chattisgarh | Naila APMC,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Narayanpur APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Neora APMC,64,0.17679558011049723,False,coverage < 60%
+Chattisgarh | Pakhanjur APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Pandariya APMC,24,0.06629834254143646,False,coverage < 60%
+Chattisgarh | Pathalgaon APMC,105,0.2900552486187845,False,coverage < 60%
+Chattisgarh | Pendraroad APMC,27,0.07458563535911603,False,coverage < 60%
+Chattisgarh | Pipriya APMC,30,0.08287292817679558,False,coverage < 60%
+Chattisgarh | Pratappur APMC,26,0.0718232044198895,False,coverage < 60%
+Chattisgarh | RAJIM,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Raigarh APMC,19,0.052486187845303865,False,coverage < 60%
+Chattisgarh | Raipur APMC,68,0.16574585635359115,False,coverage < 60%
+Chattisgarh | Rajpur APMC,7,0.019337016574585635,False,coverage < 60%
+Chattisgarh | Ramanujganj APMC,44,0.12154696132596685,False,coverage < 60%
+Chattisgarh | Ratanpur APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Saja APMC,8,0.022099447513812154,False,coverage < 60%
+Chattisgarh | Sakti APMC,5,0.013812154696132596,False,coverage < 60%
+Chattisgarh | Sambalpur (Bemetra) APMC,4,0.011049723756906077,False,coverage < 60%
+Chattisgarh | Sambalpur APMC,2,0.0055248618784530384,False,coverage < 60%
+Chattisgarh | Sarangarh APMC,8,0.022099447513812154,False,coverage < 60%
+Chattisgarh | Sariya APMC,1,0.0027624309392265192,False,coverage < 60%
+Chattisgarh | Surajpur APMC,21,0.058011049723756904,False,coverage < 60%
+Chattisgarh | Takhatpur APMC,10,0.027624309392265192,False,coverage < 60%
+Chattisgarh | UPMANDI SITAPUR,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | APMC ANAND,5,0.013812154696132596,False,coverage < 60%
+Gujarat | APMC KHAMBHA,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | APMCKHEDBRAHMA,101,0.27071823204419887,False,coverage < 60%
+Gujarat | Amirgadh APMC,169,0.46408839779005523,False,coverage < 60%
+Gujarat | Anjar APMC,16,0.04419889502762431,False,coverage < 60%
+Gujarat | Bayad APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Bhanvad APMC,17,0.04696132596685083,False,coverage < 60%
+Gujarat | Bhavnagar APMC,210,0.580110497237569,False,coverage < 60%
+Gujarat | Bhesan APMC,167,0.4613259668508287,False,coverage < 60%
+Gujarat | Borsad APMC,99,0.27348066298342544,False,coverage < 60%
+Gujarat | Botad APMC,195,0.5386740331491713,False,coverage < 60%
+Gujarat | Chansama APMC,4,0.0055248618784530384,False,coverage < 60%
+Gujarat | Deesa(Bhildi) APMC,184,0.5082872928176796,False,coverage < 60%
+Gujarat | Dhansura APMC,34,0.09392265193370165,False,coverage < 60%
+Gujarat | Dholka APMC,84,0.23204419889502761,False,coverage < 60%
+Gujarat | Dhragradhra APMC,132,0.36464088397790057,False,coverage < 60%
+Gujarat | Dhrol APMC,150,0.4143646408839779,False,coverage < 60%
+Gujarat | Diyodar APMC,138,0.3812154696132597,False,coverage < 60%
+Gujarat | Godhra APMC,33,0.09116022099447514,False,coverage < 60%
+Gujarat | Godhra Kakanpur APMC,13,0.03591160220994475,False,coverage < 60%
+Gujarat | Godhra(Timbaroad) APMC,49,0.1270718232044199,False,coverage < 60%
+Gujarat | Gogamba APMC,17,0.04419889502762431,False,coverage < 60%
+Gujarat | Gogamba(Similiya) APMC,6,0.016574585635359115,False,coverage < 60%
+Gujarat | Gondal APMC,337,0.47513812154696133,False,coverage < 60%
+Gujarat | Harij APMC,83,0.2292817679558011,False,coverage < 60%
+Gujarat | Idar APMC,99,0.21823204419889503,False,coverage < 60%
+Gujarat | Idar(Jadar) APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Jam Khambalia APMC,99,0.27348066298342544,False,coverage < 60%
+Gujarat | Jhalod APMC,201,0.5552486187845304,False,coverage < 60%
+Gujarat | KUKARMUNDA APMC,50,0.13535911602209943,False,coverage < 60%
+Gujarat | Kapadvanj APMC,198,0.5469613259668509,False,coverage < 60%
+Gujarat | Khambhat APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Kodinar APMC,17,0.04696132596685083,False,coverage < 60%
+Gujarat | Kutiyana APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Lakhani APMC,17,0.04696132596685083,False,coverage < 60%
+Gujarat | Limdi APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Limkheda APMC,117,0.32320441988950277,False,coverage < 60%
+Gujarat | Malpur APMC,10,0.027624309392265192,False,coverage < 60%
+Gujarat | Mandal APMC,10,0.027624309392265192,False,coverage < 60%
+Gujarat | Mandvi APMC,25,0.06906077348066299,False,coverage < 60%
+Gujarat | Meghraj(Rellavada) APMC,66,0.17955801104972377,False,coverage < 60%
+Gujarat | Nasvadi APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Nizar APMC,48,0.13259668508287292,False,coverage < 60%
+Gujarat | Nizar(Rumkitalav) APMC,20,0.055248618784530384,False,coverage < 60%
+Gujarat | Panthawada APMC,14,0.03867403314917127,False,coverage < 60%
+Gujarat | Prantij APMC,8,0.022099447513812154,False,coverage < 60%
+Gujarat | Prantij(Salala) APMC,3,0.008287292817679558,False,coverage < 60%
+Gujarat | Rapar APMC,30,0.08287292817679558,False,coverage < 60%
+Gujarat | Sami APMC,93,0.2569060773480663,False,coverage < 60%
+Gujarat | Talod APMC,186,0.5,False,coverage < 60%
+Gujarat | Talod(Harsol) APMC,23,0.06353591160220995,False,coverage < 60%
+Gujarat | Tarapur APMC,12,0.03314917127071823,False,coverage < 60%
+Gujarat | Thara(Shihori) APMC,177,0.4889502762430939,False,coverage < 60%
+Gujarat | Tharad APMC,67,0.1850828729281768,False,coverage < 60%
+Gujarat | Umreth APMC,55,0.15193370165745856,False,coverage < 60%
+Gujarat | Una APMC,1,0.0027624309392265192,False,coverage < 60%
+Gujarat | Upleta APMC,195,0.5386740331491713,False,coverage < 60%
+Gujarat | Vadgam APMC,173,0.47790055248618785,False,coverage < 60%
+Gujarat | Vadhvan APMC,22,0.06077348066298342,False,coverage < 60%
+Gujarat | Vagodiya APMC,2,0.0055248618784530384,False,coverage < 60%
+Gujarat | Vijapur APMC,37,0.09944751381215469,False,coverage < 60%
+Gujarat | Vijapur(Gojjariya) APMC,33,0.09116022099447514,False,coverage < 60%
+Gujarat | Vijapur(Kukarvada) APMC,31,0.0856353591160221,False,coverage < 60%
+Gujarat | Vijaynagar(Kundlakap) APMC,76,0.20994475138121546,False,coverage < 60%
+Gujarat | Vyra APMC,73,0.20165745856353592,False,coverage < 60%
+Gujarat | Zalod(Sanjeli) APMC,152,0.4198895027624309,False,coverage < 60%
+Haryana | Adampur APMC,10,0.027624309392265192,False,coverage < 60%
+Haryana | Adampur(Agroha) APMC,16,0.04419889502762431,False,coverage < 60%
+Haryana | Ambala City APMC,26,0.0718232044198895,False,coverage < 60%
+Haryana | Asandh APMC,32,0.08839779005524862,False,coverage < 60%
+Haryana | Ateli APMC,26,0.0718232044198895,False,coverage < 60%
+Haryana | Babain APMC,22,0.06077348066298342,False,coverage < 60%
+Haryana | Ballabhgarh APMC,22,0.06077348066298342,False,coverage < 60%
+Haryana | Bapauli APMC,28,0.07734806629834254,False,coverage < 60%
+Haryana | Barara APMC,17,0.04696132596685083,False,coverage < 60%
+Haryana | Barwala APMC,25,0.06906077348066299,False,coverage < 60%
+Haryana | Barwala(Hisar) APMC,32,0.08839779005524862,False,coverage < 60%
+Haryana | Bass APMC,27,0.07458563535911603,False,coverage < 60%
+Haryana | Beri APMC,20,0.055248618784530384,False,coverage < 60%
+Haryana | Bhattu Kalan APMC,27,0.07458563535911603,False,coverage < 60%
+Haryana | Bhuna APMC,15,0.04143646408839779,False,coverage < 60%
+Haryana | Bilaspur APMC,26,0.0718232044198895,False,coverage < 60%
+Haryana | Chhachhrauli(Khizrabad) APMC,15,0.04143646408839779,False,coverage < 60%
+Haryana | Chhachrauli APMC,18,0.049723756906077346,False,coverage < 60%
+Haryana | Dabwali APMC,20,0.055248618784530384,False,coverage < 60%
+Haryana | Dabwali(Chautala) APMC,10,0.027624309392265192,False,coverage < 60%
+Haryana | Dharsul APMC,26,0.0718232044198895,False,coverage < 60%
+Haryana | Ding APMC,21,0.058011049723756904,False,coverage < 60%
+Haryana | Ellanabad APMC,12,0.03314917127071823,False,coverage < 60%
+Haryana | Farukh Nagar APMC,21,0.058011049723756904,False,coverage < 60%
+Haryana | Gharaunda APMC,29,0.08011049723756906,False,coverage < 60%
+Haryana | Hansi APMC,28,0.07734806629834254,False,coverage < 60%
+Haryana | Hansi(Sisai) APMC,19,0.052486187845303865,False,coverage < 60%
+Haryana | Hassanpur APMC,25,0.06906077348066299,False,coverage < 60%
+Haryana | Hathin APMC,15,0.04143646408839779,False,coverage < 60%
+Haryana | Hissar APMC,24,0.06629834254143646,False,coverage < 60%
+Haryana | Iamailabad APMC,16,0.04143646408839779,False,coverage < 60%
+Haryana | Indri APMC,12,0.03314917127071823,False,coverage < 60%
+Haryana | Israna APMC,15,0.04143646408839779,False,coverage < 60%
+Haryana | Jagadhri APMC,12,0.03314917127071823,False,coverage < 60%
+Haryana | Jind APMC,2,0.0055248618784530384,False,coverage < 60%
+Haryana | Jullana APMC,33,0.09116022099447514,False,coverage < 60%
+Haryana | Jundla APMC,10,0.027624309392265192,False,coverage < 60%
+Haryana | KALANWALIAPMC,12,0.03314917127071823,False,coverage < 60%
+Haryana | Kaithal APMC,28,0.07734806629834254,False,coverage < 60%
+Haryana | Kalawali(Odhan) APMC,26,0.0718232044198895,False,coverage < 60%
+Haryana | Kalayat APMC,12,0.03314917127071823,False,coverage < 60%
+Haryana | Khanina APMC,38,0.10497237569060773,False,coverage < 60%
+Haryana | Kunjpura APMC,28,0.07734806629834254,False,coverage < 60%
+Haryana | Ladwa APMC,14,0.03867403314917127,False,coverage < 60%
+Haryana | Loharu APMC,37,0.10220994475138122,False,coverage < 60%
+Haryana | Madlauda APMC,1,0.0027624309392265192,False,coverage < 60%
+Haryana | Mohindergarh APMC,23,0.06353591160220995,False,coverage < 60%
+Haryana | Mullana APMC,24,0.06629834254143646,False,coverage < 60%
+Haryana | Mullana(saha) APMC,24,0.06629834254143646,False,coverage < 60%
+Haryana | Naneola APMC,15,0.03867403314917127,False,coverage < 60%
+Haryana | Naraingarh APMC,29,0.08011049723756906,False,coverage < 60%
+Haryana | Narnaul APMC,7,0.019337016574585635,False,coverage < 60%
+Haryana | Narnaund APMC,26,0.0718232044198895,False,coverage < 60%
+"Haryana | New Grain Market , Jind APMC",21,0.058011049723756904,False,coverage < 60%
+"Haryana | New Grain Market , Sirsa APMC",36,0.09944751381215469,False,coverage < 60%
+"Haryana | New Grain Market , Sonipat APMC",30,0.08011049723756906,False,coverage < 60%
+Haryana | Nigdu APMC,19,0.052486187845303865,False,coverage < 60%
+Haryana | Pai APMC,18,0.049723756906077346,False,coverage < 60%
+Haryana | Palwal APMC,32,0.08839779005524862,False,coverage < 60%
+Haryana | Panipat APMC,32,0.08839779005524862,False,coverage < 60%
+Haryana | Panipat(Babarpur) APMC,19,0.052486187845303865,False,coverage < 60%
+Haryana | Pehowa APMC,4,0.011049723756906077,False,coverage < 60%
+Haryana | Pehowa(Gumthala Gahru) APMC,14,0.03867403314917127,False,coverage < 60%
+Haryana | Pillukhera APMC,26,0.0718232044198895,False,coverage < 60%
+Haryana | Pipli APMC,24,0.06629834254143646,False,coverage < 60%
+Haryana | Punhana APMC,4,0.011049723756906077,False,coverage < 60%
+Haryana | Raipur Rani APMC,4,0.011049723756906077,False,coverage < 60%
+Haryana | Rajound APMC,31,0.0856353591160221,False,coverage < 60%
+Haryana | Rewari APMC,32,0.08839779005524862,False,coverage < 60%
+Haryana | Rohtak(Kalanaur) APMC,10,0.027624309392265192,False,coverage < 60%
+Haryana | Sadhaura APMC,3,0.008287292817679558,False,coverage < 60%
+Haryana | Safidon APMC,31,0.0856353591160221,False,coverage < 60%
+Haryana | Shahabad APMC,19,0.052486187845303865,False,coverage < 60%
+Haryana | Shahzadpur APMC,16,0.04419889502762431,False,coverage < 60%
+Haryana | Sirsa(Malekan) APMC,28,0.07734806629834254,False,coverage < 60%
+Haryana | Siwan APMC,18,0.049723756906077346,False,coverage < 60%
+Haryana | Sohna APMC,11,0.03038674033149171,False,coverage < 60%
+Haryana | Tarori APMC,6,0.016574585635359115,False,coverage < 60%
+Haryana | Thanesar APMC,16,0.04419889502762431,False,coverage < 60%
+Haryana | Tohana APMC,38,0.10497237569060773,False,coverage < 60%
+Haryana | Tosham APMC,41,0.1132596685082873,False,coverage < 60%
+Haryana | Uchana APMC,31,0.0856353591160221,False,coverage < 60%
+Haryana | Uklana APMC,28,0.07734806629834254,False,coverage < 60%
+Haryana | Yamuna Nagar APMC,2,0.0055248618784530384,False,coverage < 60%
+Himachal Pradesh | SMY Nalagarh,23,0.06353591160220995,False,coverage < 60%
+Karnataka | APMC Hubballi,232,0.5883977900552486,False,coverage < 60%
+Karnataka | Afzalpur APMC,6,0.016574585635359115,False,coverage < 60%
+Karnataka | Annigeri APMC,29,0.07458563535911603,False,coverage < 60%
+Karnataka | Arasikere APMC,10,0.027624309392265192,False,coverage < 60%
+Karnataka | Athani APMC,13,0.03314917127071823,False,coverage < 60%
+Karnataka | Aurad APMC,10,0.027624309392265192,False,coverage < 60%
+Karnataka | Badami APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Bagalkot APMC,88,0.2430939226519337,False,coverage < 60%
+Karnataka | Bailahongal APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Ballari APMC,15,0.04143646408839779,False,coverage < 60%
+Karnataka | Bangarpet APMC,3,0.008287292817679558,False,coverage < 60%
+Karnataka | Basava Kalayana APMC,285,0.4419889502762431,False,coverage < 60%
+Karnataka | Belur APMC,3,0.008287292817679558,False,coverage < 60%
+Karnataka | Bengaluru APMC,186,0.5138121546961326,False,coverage < 60%
+Karnataka | Bhadravathi APMC,19,0.052486187845303865,False,coverage < 60%
+Karnataka | Bidar APMC,84,0.23204419889502761,False,coverage < 60%
+Karnataka | Challakere APMC,16,0.04419889502762431,False,coverage < 60%
+Karnataka | Chikkamagaluru APMC,25,0.06906077348066299,False,coverage < 60%
+Karnataka | Chitradurga APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Davangere APMC,44,0.12154696132596685,False,coverage < 60%
+Karnataka | Dharwar APMC,21,0.058011049723756904,False,coverage < 60%
+Karnataka | Gadag APMC,170,0.4696132596685083,False,coverage < 60%
+Karnataka | Gauribidanur APMC,2,0.0055248618784530384,False,coverage < 60%
+Karnataka | Gokak APMC,24,0.06353591160220995,False,coverage < 60%
+Karnataka | HarappanaHalli APMC,2,0.0055248618784530384,False,coverage < 60%
+Karnataka | Hassan APMC,67,0.1850828729281768,False,coverage < 60%
+Karnataka | Haveri APMC,33,0.09116022099447514,False,coverage < 60%
+Karnataka | Hiriyur APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Honnali APMC,4,0.011049723756906077,False,coverage < 60%
+Karnataka | Hoskote APMC,3,0.008287292817679558,False,coverage < 60%
+Karnataka | Hospet APMC,54,0.14917127071823205,False,coverage < 60%
+Karnataka | Huliyar APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Humanabad APMC,39,0.10773480662983426,False,coverage < 60%
+Karnataka | Hungund APMC,19,0.052486187845303865,False,coverage < 60%
+Karnataka | Indi APMC,22,0.049723756906077346,False,coverage < 60%
+Karnataka | Jamakhandi APMC,38,0.10497237569060773,False,coverage < 60%
+Karnataka | Jevargi APMC,41,0.1132596685082873,False,coverage < 60%
+Karnataka | Kalaburagi APMC,106,0.292817679558011,False,coverage < 60%
+Karnataka | Kalaghatagi APMC,11,0.03038674033149171,False,coverage < 60%
+Karnataka | Karwar APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Koppa APMC,13,0.03591160220994475,False,coverage < 60%
+Karnataka | Koppal APMC,9,0.024861878453038673,False,coverage < 60%
+Karnataka | Kottur APMC,7,0.019337016574585635,False,coverage < 60%
+Karnataka | Kudchi APMC,19,0.052486187845303865,False,coverage < 60%
+Karnataka | Kustagi APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Laxmeshwar APMC,112,0.30939226519337015,False,coverage < 60%
+Karnataka | Maddur APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Malur APMC,4,0.011049723756906077,False,coverage < 60%
+Karnataka | Mangaluru APMC,3,0.008287292817679558,False,coverage < 60%
+Karnataka | Manvi APMC,19,0.052486187845303865,False,coverage < 60%
+Karnataka | Mudhol APMC,2,0.0055248618784530384,False,coverage < 60%
+Karnataka | Mysuru APMC,113,0.31215469613259667,False,coverage < 60%
+Karnataka | Nargunda APMC,101,0.26795580110497236,False,coverage < 60%
+Karnataka | Nippani APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Ramdurga APMC,18,0.049723756906077346,False,coverage < 60%
+Karnataka | Ranebennur APMC,12,0.03314917127071823,False,coverage < 60%
+Karnataka | Rona APMC,3,0.008287292817679558,False,coverage < 60%
+Karnataka | Sankeshwar APMC,3,0.008287292817679558,False,coverage < 60%
+Karnataka | Shiggoan APMC,10,0.027624309392265192,False,coverage < 60%
+Karnataka | Shimoga APMC,88,0.2430939226519337,False,coverage < 60%
+Karnataka | Sindagi APMC,34,0.09392265193370165,False,coverage < 60%
+Karnataka | Sindhanur APMC,6,0.016574585635359115,False,coverage < 60%
+Karnataka | Sira APMC,10,0.027624309392265192,False,coverage < 60%
+Karnataka | Soundati APMC,31,0.0856353591160221,False,coverage < 60%
+Karnataka | Talikot APMC,95,0.26243093922651933,False,coverage < 60%
+Karnataka | Tarikere APMC,1,0.0027624309392265192,False,coverage < 60%
+Karnataka | Tumakuru APMC,2,0.0055248618784530384,False,coverage < 60%
+Madhya Pradesh | Akodiya APMC,115,0.2983425414364641,False,coverage < 60%
+Madhya Pradesh | Amarwda APMC,296,0.4005524861878453,False,coverage < 60%
+Madhya Pradesh | Ambaha APMC,191,0.44751381215469616,False,coverage < 60%
+Madhya Pradesh | Anuppur APMC,267,0.5718232044198895,False,coverage < 60%
+Madhya Pradesh | Babai (Makhan Nagar) APMC,238,0.5414364640883977,False,coverage < 60%
+Madhya Pradesh | Bagli APMC,216,0.5607734806629834,False,coverage < 60%
+Madhya Pradesh | Bakswaha APMC,157,0.36464088397790057,False,coverage < 60%
+Madhya Pradesh | Baktara APMC,159,0.40331491712707185,False,coverage < 60%
+Madhya Pradesh | Balaghat APMC,111,0.26795580110497236,False,coverage < 60%
+Madhya Pradesh | Balwadi APMC,72,0.19060773480662985,False,coverage < 60%
+Madhya Pradesh | Banmorkalan APMC,126,0.23204419889502761,False,coverage < 60%
+Madhya Pradesh | Barghat APMC,22,0.058011049723756904,False,coverage < 60%
+Madhya Pradesh | Berachha APMC,42,0.11049723756906077,False,coverage < 60%
+Madhya Pradesh | Bhanpura APMC,288,0.5662983425414365,False,coverage < 60%
+Madhya Pradesh | Bhensdehi APMC,96,0.24861878453038674,False,coverage < 60%
+Madhya Pradesh | Budhar APMC,134,0.35359116022099446,False,coverage < 60%
+Madhya Pradesh | Chhpara APMC,393,0.5193370165745856,False,coverage < 60%
+Madhya Pradesh | Ghansour APMC,282,0.49171270718232046,False,coverage < 60%
+Madhya Pradesh | Gorakhpur APMC,221,0.5359116022099447,False,coverage < 60%
+Madhya Pradesh | Gulabganj APMC,67,0.16574585635359115,False,coverage < 60%
+Madhya Pradesh | Hata APMC,234,0.5441988950276243,False,coverage < 60%
+Madhya Pradesh | Jaisinagar APMC,230,0.5414364640883977,False,coverage < 60%
+Madhya Pradesh | Jaithari APMC,54,0.13259668508287292,False,coverage < 60%
+Madhya Pradesh | Javad APMC,61,0.1685082872928177,False,coverage < 60%
+Madhya Pradesh | Jhabua(F&V) APMC,161,0.4447513812154696,False,coverage < 60%
+Madhya Pradesh | Jobat(F&V) APMC,5,0.013812154696132596,False,coverage < 60%
+Madhya Pradesh | Jora APMC,65,0.1685082872928177,False,coverage < 60%
+Madhya Pradesh | Katangi APMC,9,0.022099447513812154,False,coverage < 60%
+Madhya Pradesh | Keolari APMC,316,0.49171270718232046,False,coverage < 60%
+Madhya Pradesh | Khatora APMC,292,0.585635359116022,False,coverage < 60%
+Madhya Pradesh | Khetia APMC,258,0.42265193370165743,False,coverage < 60%
+Madhya Pradesh | Kotma APMC,44,0.11878453038674033,False,coverage < 60%
+Madhya Pradesh | Kurawar APMC,376,0.5883977900552486,False,coverage < 60%
+Madhya Pradesh | Kurwai APMC,115,0.24033149171270718,False,coverage < 60%
+Madhya Pradesh | Lalbarra APMC,25,0.06353591160220995,False,coverage < 60%
+Madhya Pradesh | Machalpur APMC,207,0.4585635359116022,False,coverage < 60%
+Madhya Pradesh | Maksi APMC,8,0.019337016574585635,False,coverage < 60%
+Madhya Pradesh | Malthone APMC,141,0.38950276243093923,False,coverage < 60%
+Madhya Pradesh | Mohgaon APMC,148,0.3425414364640884,False,coverage < 60%
+Madhya Pradesh | Momanbadodiya APMC,205,0.5220994475138122,False,coverage < 60%
+Madhya Pradesh | Multai APMC,252,0.5082872928176796,False,coverage < 60%
+Madhya Pradesh | Nainpur APMC,471,0.5580110497237569,False,coverage < 60%
+Madhya Pradesh | Narmadapuram (F&V) APMC,4,0.011049723756906077,False,coverage < 60%
+Madhya Pradesh | Narmadapuram APMC,161,0.35911602209944754,False,coverage < 60%
+Madhya Pradesh | Pachaur(F&V) APMC,100,0.27624309392265195,False,coverage < 60%
+Madhya Pradesh | Palari APMC,295,0.4530386740331492,False,coverage < 60%
+Madhya Pradesh | Pandhurna APMC,92,0.22099447513812154,False,coverage < 60%
+Madhya Pradesh | Paraswada APMC,74,0.20165745856353592,False,coverage < 60%
+Madhya Pradesh | Pawai APMC,189,0.511049723756906,False,coverage < 60%
+Madhya Pradesh | Piprai APMC,128,0.34806629834254144,False,coverage < 60%
+Madhya Pradesh | Porsa APMC,168,0.36187845303867405,False,coverage < 60%
+Madhya Pradesh | Prithvipur APMC,209,0.5220994475138122,False,coverage < 60%
+Madhya Pradesh | Ramnagar APMC,165,0.45027624309392267,False,coverage < 60%
+Madhya Pradesh | Rannod APMC,69,0.19060773480662985,False,coverage < 60%
+Madhya Pradesh | Sailana(F&V) APMC,5,0.013812154696132596,False,coverage < 60%
+Madhya Pradesh | Saunsar (F&V) APMC,30,0.08287292817679558,False,coverage < 60%
+Madhya Pradesh | Saunsar APMC,37,0.08839779005524862,False,coverage < 60%
+Madhya Pradesh | Segaon APMC,271,0.5662983425414365,False,coverage < 60%
+Madhya Pradesh | Shadora APMC,273,0.3342541436464088,False,coverage < 60%
+Madhya Pradesh | Shahpura Bhitoni APMC,159,0.3259668508287293,False,coverage < 60%
+Madhya Pradesh | Shahpura Niwas APMC,194,0.35359116022099446,False,coverage < 60%
+Madhya Pradesh | Simariya APMC,219,0.5580110497237569,False,coverage < 60%
+Madhya Pradesh | Singroli APMC,101,0.23480662983425415,False,coverage < 60%
+Madhya Pradesh | Soyatkalan APMC,237,0.5828729281767956,False,coverage < 60%
+Madhya Pradesh | Suthalia APMC,172,0.4558011049723757,False,coverage < 60%
+Madhya Pradesh | Suvasra APMC,366,0.5248618784530387,False,coverage < 60%
+Madhya Pradesh | Tendukheda APMC,267,0.5193370165745856,False,coverage < 60%
+Madhya Pradesh | Varaseoni APMC,29,0.07458563535911603,False,coverage < 60%
+Maharashtra | APMC  VASAI,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC  Yawal,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | APMC APMC Bori Arab,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Aarni,19,0.052486187845303865,False,coverage < 60%
+Maharashtra | APMC Achalpur,158,0.43646408839779005,False,coverage < 60%
+Maharashtra | APMC Ahilyanagar,127,0.3453038674033149,False,coverage < 60%
+Maharashtra | APMC Ahmedpur,141,0.38950276243093923,False,coverage < 60%
+Maharashtra | APMC Akhadabalapur,17,0.04696132596685083,False,coverage < 60%
+Maharashtra | APMC Akkalkot,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Akkalkuwa,3,0.008287292817679558,False,coverage < 60%
+Maharashtra | APMC Akluj,23,0.06353591160220995,False,coverage < 60%
+Maharashtra | APMC Akot,68,0.1878453038674033,False,coverage < 60%
+Maharashtra | APMC Amalner,197,0.5386740331491713,False,coverage < 60%
+Maharashtra | APMC Ambad (Vadigodri),57,0.1574585635359116,False,coverage < 60%
+Maharashtra | APMC Ambejogai,24,0.06629834254143646,False,coverage < 60%
+Maharashtra | APMC Anajngaon,59,0.16298342541436464,False,coverage < 60%
+Maharashtra | APMC Ashti,57,0.15469613259668508,False,coverage < 60%
+Maharashtra | APMC Ashti(Jalna),3,0.008287292817679558,False,coverage < 60%
+Maharashtra | APMC Aurad Shahajani,228,0.5082872928176796,False,coverage < 60%
+Maharashtra | APMC Ausa,134,0.31767955801104975,False,coverage < 60%
+Maharashtra | APMC BHOKARDAN,46,0.1270718232044199,False,coverage < 60%
+Maharashtra | APMC Babhulgaon,61,0.1685082872928177,False,coverage < 60%
+Maharashtra | APMC Balapur,35,0.08287292817679558,False,coverage < 60%
+Maharashtra | APMC Baramati,241,0.2154696132596685,False,coverage < 60%
+Maharashtra | APMC Barshi,190,0.4005524861878453,False,coverage < 60%
+Maharashtra | APMC Beed,214,0.5883977900552486,False,coverage < 60%
+Maharashtra | APMC Bhandara,154,0.4005524861878453,False,coverage < 60%
+Maharashtra | APMC Bhiwapur,23,0.06353591160220995,False,coverage < 60%
+Maharashtra | APMC Bhokar,103,0.2845303867403315,False,coverage < 60%
+Maharashtra | APMC Bhoom,3,0.008287292817679558,False,coverage < 60%
+Maharashtra | APMC Buldhana,33,0.09116022099447514,False,coverage < 60%
+Maharashtra | APMC Chakur,13,0.03591160220994475,False,coverage < 60%
+Maharashtra | APMC Chalisgaon,126,0.34806629834254144,False,coverage < 60%
+Maharashtra | APMC Chandur Bazar,195,0.36464088397790057,False,coverage < 60%
+Maharashtra | APMC Chandur Railway,77,0.212707182320442,False,coverage < 60%
+Maharashtra | APMC Chikali,119,0.3287292817679558,False,coverage < 60%
+Maharashtra | APMC Chopda,179,0.3839779005524862,False,coverage < 60%
+Maharashtra | APMC Daryapur,10,0.027624309392265192,False,coverage < 60%
+Maharashtra | APMC Devala,202,0.5524861878453039,False,coverage < 60%
+Maharashtra | APMC Dhadgaon,18,0.049723756906077346,False,coverage < 60%
+Maharashtra | APMC Dhamngaon-Railway,107,0.2955801104972376,False,coverage < 60%
+Maharashtra | APMC Dharangaon,25,0.06906077348066299,False,coverage < 60%
+Maharashtra | APMC Dharni,12,0.03314917127071823,False,coverage < 60%
+Maharashtra | APMC Dhule,210,0.4171270718232044,False,coverage < 60%
+Maharashtra | APMC Digras,115,0.3011049723756906,False,coverage < 60%
+Maharashtra | APMC Dondaicha,296,0.5276243093922652,False,coverage < 60%
+Maharashtra | APMC Dound,53,0.10773480662983426,False,coverage < 60%
+Maharashtra | APMC Dudhani,301,0.5994475138121547,False,coverage < 60%
+Maharashtra | APMC Fulmbri,10,0.027624309392265192,False,coverage < 60%
+Maharashtra | APMC Gangakhed,162,0.44751381215469616,False,coverage < 60%
+Maharashtra | APMC Gangapur,230,0.56353591160221,False,coverage < 60%
+Maharashtra | APMC Gevrai,250,0.5386740331491713,False,coverage < 60%
+Maharashtra | APMC Ghansawangi,14,0.03867403314917127,False,coverage < 60%
+Maharashtra | APMC Hadgaon,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | APMC Himayatnagar,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | APMC Hingoli,116,0.30662983425414364,False,coverage < 60%
+Maharashtra | APMC Indapur,16,0.022099447513812154,False,coverage < 60%
+Maharashtra | APMC Jafrabad,23,0.06353591160220995,False,coverage < 60%
+Maharashtra | APMC Jalgaon,83,0.20165745856353592,False,coverage < 60%
+Maharashtra | APMC Jamkhed,285,0.5773480662983426,False,coverage < 60%
+Maharashtra | APMC Jawala-Bajar,2,0.0055248618784530384,False,coverage < 60%
+Maharashtra | APMC Jintur,52,0.13812154696132597,False,coverage < 60%
+Maharashtra | APMC Kada,67,0.1850828729281768,False,coverage < 60%
+Maharashtra | APMC Kaij,37,0.10220994475138122,False,coverage < 60%
+Maharashtra | APMC Kalamb,19,0.052486187845303865,False,coverage < 60%
+Maharashtra | APMC Kalamb (Dharashiv),158,0.26243093922651933,False,coverage < 60%
+Maharashtra | APMC Kalmeshwar,48,0.13259668508287292,False,coverage < 60%
+Maharashtra | APMC Kalvan,17,0.04419889502762431,False,coverage < 60%
+Maharashtra | APMC Kandhar,123,0.3397790055248619,False,coverage < 60%
+Maharashtra | APMC Kannad,138,0.3812154696132597,False,coverage < 60%
+Maharashtra | APMC Karanja,210,0.569060773480663,False,coverage < 60%
+Maharashtra | APMC Karjat,162,0.3314917127071823,False,coverage < 60%
+Maharashtra | APMC Khamgaon,288,0.5966850828729282,False,coverage < 60%
+Maharashtra | APMC Kille Dharur,105,0.1850828729281768,False,coverage < 60%
+Maharashtra | APMC Kurdwadi,36,0.09392265193370165,False,coverage < 60%
+Maharashtra | APMC Lakhandur,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Lasalgaon,292,0.5524861878453039,False,coverage < 60%
+Maharashtra | APMC Lasur Station,127,0.2596685082872928,False,coverage < 60%
+Maharashtra | APMC Loha,195,0.4613259668508287,False,coverage < 60%
+Maharashtra | APMC Lonar,205,0.56353591160221,False,coverage < 60%
+Maharashtra | APMC Malegaon(Washim),26,0.0718232044198895,False,coverage < 60%
+Maharashtra | APMC Mandhal,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Mangal Wedha,80,0.19613259668508287,False,coverage < 60%
+Maharashtra | APMC Mangrulpeer,182,0.4171270718232044,False,coverage < 60%
+Maharashtra | APMC Manmad,192,0.5276243093922652,False,coverage < 60%
+Maharashtra | APMC Manora,119,0.32044198895027626,False,coverage < 60%
+Maharashtra | APMC Mantha,41,0.1132596685082873,False,coverage < 60%
+Maharashtra | APMC Manwat,18,0.04696132596685083,False,coverage < 60%
+Maharashtra | APMC Mauda,3,0.008287292817679558,False,coverage < 60%
+Maharashtra | APMC Mehekar,187,0.5165745856353591,False,coverage < 60%
+Maharashtra | APMC Morshi,76,0.20994475138121546,False,coverage < 60%
+Maharashtra | APMC Motala,9,0.024861878453038673,False,coverage < 60%
+Maharashtra | APMC Mudkhed,21,0.058011049723756904,False,coverage < 60%
+Maharashtra | APMC Mukhed,4,0.011049723756906077,False,coverage < 60%
+Maharashtra | APMC Murum,206,0.43922651933701656,False,coverage < 60%
+Maharashtra | APMC Nanded,142,0.39226519337016574,False,coverage < 60%
+Maharashtra | APMC Nandgaon,225,0.5939226519337016,False,coverage < 60%
+Maharashtra | APMC Nandgaon Khandeshwar,101,0.27624309392265195,False,coverage < 60%
+Maharashtra | APMC Nandura,65,0.17955801104972377,False,coverage < 60%
+Maharashtra | APMC Nandurbar,138,0.287292817679558,False,coverage < 60%
+Maharashtra | APMC Navapur,16,0.04419889502762431,False,coverage < 60%
+Maharashtra | APMC Ner Parasopant,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Newasa,25,0.06906077348066299,False,coverage < 60%
+Maharashtra | APMC Nilanga,41,0.1132596685082873,False,coverage < 60%
+Maharashtra | APMC Palam,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | APMC Palghar,137,0.3784530386740331,False,coverage < 60%
+Maharashtra | APMC Palus,2,0.0055248618784530384,False,coverage < 60%
+Maharashtra | APMC Pandhakawada,29,0.08011049723756906,False,coverage < 60%
+Maharashtra | APMC Paranda,97,0.26243093922651933,False,coverage < 60%
+Maharashtra | APMC Parbhani,89,0.24585635359116023,False,coverage < 60%
+Maharashtra | APMC Parli Vaijnath,73,0.20165745856353592,False,coverage < 60%
+Maharashtra | APMC Parola,100,0.27624309392265195,False,coverage < 60%
+Maharashtra | APMC Partur,128,0.35359116022099446,False,coverage < 60%
+Maharashtra | APMC Pathardi,79,0.19060773480662985,False,coverage < 60%
+Maharashtra | APMC Pathari,47,0.1298342541436464,False,coverage < 60%
+Maharashtra | APMC Patoda,16,0.04419889502762431,False,coverage < 60%
+Maharashtra | APMC Patur,25,0.06906077348066299,False,coverage < 60%
+Maharashtra | APMC Pavani,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Phaltan,15,0.03314917127071823,False,coverage < 60%
+Maharashtra | APMC Pulgaon,46,0.1270718232044199,False,coverage < 60%
+Maharashtra | APMC Pune,93,0.2569060773480663,False,coverage < 60%
+Maharashtra | APMC Purna,14,0.03867403314917127,False,coverage < 60%
+Maharashtra | APMC Pusad,30,0.08287292817679558,False,coverage < 60%
+Maharashtra | APMC Rahata,117,0.32320441988950277,False,coverage < 60%
+Maharashtra | APMC Raver,74,0.20441988950276244,False,coverage < 60%
+Maharashtra | APMC Sailu,17,0.04696132596685083,False,coverage < 60%
+Maharashtra | APMC Sakri,77,0.212707182320442,False,coverage < 60%
+Maharashtra | APMC Samudrapur,8,0.022099447513812154,False,coverage < 60%
+Maharashtra | APMC Sangamner,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | APMC Sangli,206,0.569060773480663,False,coverage < 60%
+Maharashtra | APMC Satana,318,0.5165745856353591,False,coverage < 60%
+Maharashtra | APMC Savner,204,0.5359116022099447,False,coverage < 60%
+Maharashtra | APMC Shahada,180,0.4972375690607735,False,coverage < 60%
+Maharashtra | APMC Shegaon,218,0.49171270718232046,False,coverage < 60%
+Maharashtra | APMC Shevgaon,223,0.5552486187845304,False,coverage < 60%
+Maharashtra | APMC Shirpur,326,0.580110497237569,False,coverage < 60%
+Maharashtra | APMC Shirur,184,0.3425414364640884,False,coverage < 60%
+Maharashtra | APMC Shrigonda,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | APMC Shrirampur,134,0.3701657458563536,False,coverage < 60%
+Maharashtra | APMC Sillod,217,0.5994475138121547,False,coverage < 60%
+Maharashtra | APMC Sindi,36,0.09944751381215469,False,coverage < 60%
+Maharashtra | APMC Sindkhed Raja,13,0.03591160220994475,False,coverage < 60%
+Maharashtra | APMC Sinner,116,0.2983425414364641,False,coverage < 60%
+Maharashtra | APMC Sonpeth,9,0.022099447513812154,False,coverage < 60%
+Maharashtra | APMC Tadkalas,37,0.10220994475138122,False,coverage < 60%
+Maharashtra | APMC Taloda,43,0.11878453038674033,False,coverage < 60%
+Maharashtra | APMC Tasgaon,64,0.17679558011049723,False,coverage < 60%
+Maharashtra | APMC Telhara,63,0.17403314917127072,False,coverage < 60%
+Maharashtra | APMC Tuljapur,168,0.46408839779005523,False,coverage < 60%
+Maharashtra | APMC Tumsar,123,0.3397790055248619,False,coverage < 60%
+Maharashtra | APMC Ulhasnagar,214,0.5911602209944752,False,coverage < 60%
+Maharashtra | APMC Umared,124,0.24861878453038674,False,coverage < 60%
+Maharashtra | APMC Umarga,57,0.13259668508287292,False,coverage < 60%
+Maharashtra | APMC Umari,8,0.022099447513812154,False,coverage < 60%
+Maharashtra | APMC Umarkhed,70,0.19337016574585636,False,coverage < 60%
+Maharashtra | APMC Vaduj,64,0.17679558011049723,False,coverage < 60%
+Maharashtra | APMC Vadvani,57,0.1408839779005525,False,coverage < 60%
+Maharashtra | APMC Vaijpur,108,0.2845303867403315,False,coverage < 60%
+Maharashtra | APMC Vani,66,0.18232044198895028,False,coverage < 60%
+Maharashtra | APMC Varora,1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | APMC Varud,4,0.008287292817679558,False,coverage < 60%
+Maharashtra | APMC Wardha,208,0.5193370165745856,False,coverage < 60%
+Maharashtra | APMC Washim,220,0.5276243093922652,False,coverage < 60%
+Maharashtra | APMC Yavatmal,175,0.48342541436464087,False,coverage < 60%
+Maharashtra | APMC Yeola,176,0.4530386740331492,False,coverage < 60%
+Maharashtra | Ashti(Karanja),77,0.212707182320442,False,coverage < 60%
+Maharashtra | Barshi(Vairag),125,0.32044198895027626,False,coverage < 60%
+Maharashtra | Bhokardan(Pimpalgaon Renu),41,0.1132596685082873,False,coverage < 60%
+Maharashtra | Bori,4,0.011049723756906077,False,coverage < 60%
+"Maharashtra | Bsk Krishi Bazar Private Limited, Mehkar, Dist Buldhana",164,0.4530386740331492,False,coverage < 60%
+Maharashtra | Buldhana(Dhad),36,0.09944751381215469,False,coverage < 60%
+Maharashtra | Dondaicha (Sindhkheda),30,0.08011049723756906,False,coverage < 60%
+Maharashtra | Hadgaon(Tamsa),7,0.019337016574585635,False,coverage < 60%
+Maharashtra | Hingoli(Kanegoan Naka),12,0.03314917127071823,False,coverage < 60%
+Maharashtra | Indapur(Bhigwan),5,0.008287292817679558,False,coverage < 60%
+Maharashtra | Indapur(Nimgaon Ketki),7,0.019337016574585635,False,coverage < 60%
+Maharashtra | Jalgaon Jamod(Aasalgaon),39,0.10773480662983426,False,coverage < 60%
+Maharashtra | Jalgaon(Masawat),83,0.20441988950276244,False,coverage < 60%
+Maharashtra | KISAN MARKET YARD,94,0.2596685082872928,False,coverage < 60%
+Maharashtra | Kada(Ashti),1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | Karjat(Rashin),127,0.3011049723756906,False,coverage < 60%
+"Maharashtra | Keshranand Cottex Pvt Agro, Dondicha, Dist Dhule",22,0.06077348066298342,False,coverage < 60%
+Maharashtra | Kolhapur(Laxmipuri),188,0.5193370165745856,False,coverage < 60%
+"Maharashtra | Krushna Krishi Bazar, Washim",99,0.27348066298342544,False,coverage < 60%
+Maharashtra | Kurdwadi(Modnimb),105,0.2596685082872928,False,coverage < 60%
+Maharashtra | Lasalgaon(Vinchur),45,0.12430939226519337,False,coverage < 60%
+Maharashtra | Latur(Murud),71,0.19613259668508287,False,coverage < 60%
+"Maharashtra | Maharaja Agresen Pvt Krushi Utappan Bazar Samati, Dist Buldhana",33,0.09116022099447514,False,coverage < 60%
+"Maharashtra | Mahesh Krushi Utpanna Bazar, Digras, Dist Yeotmal",144,0.39779005524861877,False,coverage < 60%
+Maharashtra | Nira(Saswad),20,0.055248618784530384,False,coverage < 60%
+"Maharashtra | Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",214,0.5911602209944752,False,coverage < 60%
+Maharashtra | PACHORA(BHADGAON),5,0.013812154696132596,False,coverage < 60%
+Maharashtra | Sangrampur(Varvatbakal),18,0.049723756906077346,False,coverage < 60%
+"Maharashtra | Shekari Krushi Khajgi Bazar, Arni, Dist Yavatmal",116,0.32044198895027626,False,coverage < 60%
+Maharashtra | Shivsiddha Govind Producer Company Ltd Sanchalit Khajgi Krushi Utpann Bajar Samati-Abhona-Kalwan,7,0.019337016574585635,False,coverage < 60%
+Maharashtra | Shrirampur(Belapur),106,0.292817679558011,False,coverage < 60%
+Maharashtra | Sillod(Bharadi),35,0.09668508287292818,False,coverage < 60%
+Maharashtra | Sindi (Selu),180,0.4972375690607735,False,coverage < 60%
+Maharashtra | Umarked(Danki),79,0.21823204419889503,False,coverage < 60%
+Maharashtra | Varud(Rajura Bazar),28,0.0718232044198895,False,coverage < 60%
+"Maharashtra | Vitthal Krushi Utpanna Bazar Pvt Ltd, Washim",1,0.0027624309392265192,False,coverage < 60%
+Maharashtra | Washim(Ansing),103,0.27900552486187846,False,coverage < 60%
+NCT of Delhi | APMC Narela,215,0.5911602209944752,False,coverage < 60%
+Nagaland | Mon APMC,3,0.008287292817679558,False,coverage < 60%
+Punjab | Abohar APMC,95,0.26243093922651933,False,coverage < 60%
+Punjab | Adampur APMC,13,0.03591160220994475,False,coverage < 60%
+Punjab | Ahmedgarh APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Ajitwal (Chogawan) APMC,15,0.04143646408839779,False,coverage < 60%
+Punjab | Ajitwal (Dala) APMC,14,0.03867403314917127,False,coverage < 60%
+Punjab | Ajitwal APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Ajnala (Sudhar) APMC,4,0.011049723756906077,False,coverage < 60%
+Punjab | Amargarh APMC,14,0.03867403314917127,False,coverage < 60%
+Punjab | Amloh APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Amloh(Gobind Garh Mandi) APMC,18,0.049723756906077346,False,coverage < 60%
+Punjab | Attari APMC,17,0.04696132596685083,False,coverage < 60%
+Punjab | Banur APMC,13,0.03591160220994475,False,coverage < 60%
+Punjab | Bareta APMC,23,0.06353591160220995,False,coverage < 60%
+Punjab | Bariwala APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Bassi Pathana APMC,15,0.04143646408839779,False,coverage < 60%
+Punjab | Bhadaur APMC,30,0.08287292817679558,False,coverage < 60%
+Punjab | Bhadaur(Sehna) APMC,26,0.0718232044198895,False,coverage < 60%
+Punjab | Bhadson APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Bhagta Bhai Ka (Jalal) APMC,6,0.016574585635359115,False,coverage < 60%
+Punjab | Bhagta Bhai Ka(Kotha Guru Ka) APMC,6,0.016574585635359115,False,coverage < 60%
+Punjab | Bhawanigarh APMC,22,0.058011049723756904,False,coverage < 60%
+Punjab | Bhikhi APMC,25,0.06906077348066299,False,coverage < 60%
+Punjab | Bhikhiwind (Algo) APMC,9,0.024861878453038673,False,coverage < 60%
+Punjab | Bhikhiwind (Basarke) APMC,9,0.024861878453038673,False,coverage < 60%
+Punjab | Bhikhiwind (Marrimegha) APMC,10,0.027624309392265192,False,coverage < 60%
+Punjab | Bhikhiwind (Sursingh) APMC,12,0.03314917127071823,False,coverage < 60%
+Punjab | Bhikhiwind APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Bhikhiwind(Khalra) APMC,17,0.04696132596685083,False,coverage < 60%
+Punjab | Bhulath (Ibrahimaaaaval) APMC,9,0.024861878453038673,False,coverage < 60%
+Punjab | Bhulath (Nadala) APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Bhulath APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Boha APMC,28,0.07734806629834254,False,coverage < 60%
+Punjab | Budalada APMC,17,0.04696132596685083,False,coverage < 60%
+Punjab | Budhlada (Phaphre Bhaike) APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Chanarthal APMC,23,0.06353591160220995,False,coverage < 60%
+Punjab | Dakala APMC,3,0.008287292817679558,False,coverage < 60%
+Punjab | Dhanaula APMC,22,0.06077348066298342,False,coverage < 60%
+Punjab | Dhanula (Kaleke) APMC,8,0.022099447513812154,False,coverage < 60%
+Punjab | Dhilwan APMC,20,0.052486187845303865,False,coverage < 60%
+Punjab | Dhuri APMC,25,0.06906077348066299,False,coverage < 60%
+Punjab | Dinanagar APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Dirba APMC,12,0.03314917127071823,False,coverage < 60%
+Punjab | Doraha APMC,2,0.0055248618784530384,False,coverage < 60%
+Punjab | Dudhansadhan APMC,9,0.024861878453038673,False,coverage < 60%
+Punjab | Garh Shankar APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | GarhShankar (Kotfatuhi) APMC,15,0.04143646408839779,False,coverage < 60%
+Punjab | Gehri APMC,1,0.0027624309392265192,False,coverage < 60%
+Punjab | Hathur APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Jagraon APMC,7,0.019337016574585635,False,coverage < 60%
+Punjab | Jaitu APMC,23,0.06353591160220995,False,coverage < 60%
+Punjab | Jalalabad APMC,24,0.06629834254143646,False,coverage < 60%
+Punjab | Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,3,0.008287292817679558,False,coverage < 60%
+Punjab | Jalandhar Cantt. APMC,3,0.008287292817679558,False,coverage < 60%
+Punjab | Jalandhar City APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Jalandhar City(Faintan Ganj) APMC,4,0.011049723756906077,False,coverage < 60%
+Punjab | Jalandhar City(Kartar Pur Dana mandi) APMC,18,0.049723756906077346,False,coverage < 60%
+Punjab | Kahnuwan APMC,28,0.07734806629834254,False,coverage < 60%
+Punjab | Khadur Sahib APMC,1,0.0027624309392265192,False,coverage < 60%
+Punjab | Khamano (Sanghol) APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Khamano APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Kharar APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Khem karan APMC,29,0.08011049723756906,False,coverage < 60%
+Punjab | Khemkaran (Amarkot) APMC,29,0.08011049723756906,False,coverage < 60%
+Punjab | Kila Raipur APMC,6,0.016574585635359115,False,coverage < 60%
+Punjab | Kot ise Khan APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Kotkapura APMC,27,0.07458563535911603,False,coverage < 60%
+Punjab | Kurali APMC,26,0.0718232044198895,False,coverage < 60%
+Punjab | Ludhiana(Mandi gill Road) APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Ludhiana(Salem Tabri) APMC,27,0.07458563535911603,False,coverage < 60%
+Punjab | Machhiwara APMC,1,0.0027624309392265192,False,coverage < 60%
+Punjab | Majitha APMC,27,0.07458563535911603,False,coverage < 60%
+Punjab | Malaoud (Siar) APMC,10,0.027624309392265192,False,coverage < 60%
+Punjab | Maloud APMC,14,0.03867403314917127,False,coverage < 60%
+Punjab | Malout (Panniwala) APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Malout APMC,22,0.06077348066298342,False,coverage < 60%
+Punjab | Mansa (Bhamekalan) APMC,14,0.03867403314917127,False,coverage < 60%
+Punjab | Mansa (Khiala kalan) APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Mansa APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Mansa(Ubha Buraj Dhilwan) APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Mehal Kalan APMC,18,0.049723756906077346,False,coverage < 60%
+Punjab | Moonak APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Morinda APMC,2,0.0055248618784530384,False,coverage < 60%
+Punjab | Muktsar APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Nabha APMC,6,0.016574585635359115,False,coverage < 60%
+Punjab | Nakodar APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Nakodar(Sarih) APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Narot J Singh APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Naushera Pannuan APMC,9,0.024861878453038673,False,coverage < 60%
+Punjab | Nawan Shahar(Mandi Aur) APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Nawan Shahar(Mandi Jadla) APMC,18,0.049723756906077346,False,coverage < 60%
+Punjab | Nawan Shahar(MandiRaho) APMC,18,0.049723756906077346,False,coverage < 60%
+Punjab | Nawanshahar APMC,61,0.1685082872928177,False,coverage < 60%
+Punjab | Patiala(Anaj Mandi Sanaur Road) APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Patiala(New Anaj Mandi) APMC,25,0.06906077348066299,False,coverage < 60%
+Punjab | Patran APMC,13,0.03591160220994475,False,coverage < 60%
+Punjab | Patran(Ghagga Mandi) APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Patti APMC,14,0.03867403314917127,False,coverage < 60%
+Punjab | Phillaur APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Phillaur(Apra Mandi) APMC,20,0.055248618784530384,False,coverage < 60%
+Punjab | Rajpura APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Raman APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Rampura Phul APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Rampuraphul(Bhai Rupan) APMC,22,0.06077348066298342,False,coverage < 60%
+Punjab | Rampuraphul(Chowke) APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Rampuraphul(Dhapali) APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Rampuraphul(Mehraj) APMC,18,0.049723756906077346,False,coverage < 60%
+Punjab | Rampuraphul(Nabha Mandi) APMC,22,0.06077348066298342,False,coverage < 60%
+Punjab | Rayya APMC,28,0.07734806629834254,False,coverage < 60%
+Punjab | Rayya(Sathiala) APMC,24,0.06629834254143646,False,coverage < 60%
+Punjab | Ropar APMC,24,0.06629834254143646,False,coverage < 60%
+Punjab | Sadiq APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | Sahnewal APMC,27,0.0718232044198895,False,coverage < 60%
+Punjab | Samana APMC,24,0.06077348066298342,False,coverage < 60%
+Punjab | Samana(Gajewas) APMC,14,0.03591160220994475,False,coverage < 60%
+Punjab | Samana(Kakrala) APMC,24,0.055248618784530384,False,coverage < 60%
+Punjab | Sangat APMC,22,0.06077348066298342,False,coverage < 60%
+Punjab | Shahkot APMC,12,0.03314917127071823,False,coverage < 60%
+Punjab | Shakot (Malsian) APMC,8,0.022099447513812154,False,coverage < 60%
+Punjab | Sherpur APMC,18,0.04419889502762431,False,coverage < 60%
+Punjab | Sidhwan Bet (Lodhiwala) APMC,11,0.03038674033149171,False,coverage < 60%
+Punjab | Sidhwan Bet APMC,19,0.052486187845303865,False,coverage < 60%
+Punjab | Sirhind APMC,22,0.06077348066298342,False,coverage < 60%
+Punjab | Sultanpur Lodhi (Tibba) APMC,13,0.03591160220994475,False,coverage < 60%
+Punjab | Sunam APMC,1,0.0027624309392265192,False,coverage < 60%
+Punjab | Talwandi Bhai APMC,27,0.07458563535911603,False,coverage < 60%
+Punjab | Talwandi Bhai(Mudki) APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Tapa(Tapa Mandi) APMC,26,0.0718232044198895,False,coverage < 60%
+Punjab | Tarantaran APMC,21,0.058011049723756904,False,coverage < 60%
+Punjab | Zira APMC,23,0.06353591160220995,False,coverage < 60%
+Punjab | kum Kalan APMC,16,0.04419889502762431,False,coverage < 60%
+Punjab | lakhowal APMC,16,0.04419889502762431,False,coverage < 60%
+Rajasthan | Alwar APMC,163,0.44751381215469616,False,coverage < 60%
+Rajasthan | Anupgarh APMC,159,0.43922651933701656,False,coverage < 60%
+Rajasthan | Arnod APMC,45,0.12430939226519337,False,coverage < 60%
+Rajasthan | Bagru APMC,61,0.1685082872928177,False,coverage < 60%
+Rajasthan | Bajju APMC,5,0.013812154696132596,False,coverage < 60%
+Rajasthan | Bandikui APMC,134,0.3701657458563536,False,coverage < 60%
+Rajasthan | Bansoor APMC,87,0.24033149171270718,False,coverage < 60%
+Rajasthan | Barisadri APMC,129,0.356353591160221,False,coverage < 60%
+Rajasthan | Barodamev APMC,240,0.5718232044198895,False,coverage < 60%
+Rajasthan | Bayana APMC,98,0.27071823204419887,False,coverage < 60%
+Rajasthan | Beawar APMC,17,0.04696132596685083,False,coverage < 60%
+Rajasthan | Begu APMC,49,0.13535911602209943,False,coverage < 60%
+Rajasthan | Bhadara APMC,130,0.35911602209944754,False,coverage < 60%
+Rajasthan | Bhagat Ki Kothi APMC,13,0.03591160220994475,False,coverage < 60%
+Rajasthan | Bharatpur APMC,154,0.425414364640884,False,coverage < 60%
+Rajasthan | Bhilwara APMC,141,0.38950276243093923,False,coverage < 60%
+Rajasthan | Bhusawar Bair APMC,205,0.5662983425414365,False,coverage < 60%
+Rajasthan | Bijaynagar APMC,55,0.15193370165745856,False,coverage < 60%
+Rajasthan | Bijolia APMC,2,0.0055248618784530384,False,coverage < 60%
+Rajasthan | Bikaner (Grain) APMC,113,0.31215469613259667,False,coverage < 60%
+Rajasthan | Bilara APMC,49,0.13535911602209943,False,coverage < 60%
+Rajasthan | Bundi APMC,215,0.5939226519337016,False,coverage < 60%
+Rajasthan | Chaksu APMC,170,0.4696132596685083,False,coverage < 60%
+Rajasthan | Chhabra APMC,176,0.4861878453038674,False,coverage < 60%
+Rajasthan | Chhotisadri APMC,178,0.49171270718232046,False,coverage < 60%
+Rajasthan | Chirawa APMC,1,0.0027624309392265192,False,coverage < 60%
+Rajasthan | Chomu Grain APMC,97,0.26795580110497236,False,coverage < 60%
+Rajasthan | Dablirathan APMC,60,0.16574585635359115,False,coverage < 60%
+Rajasthan | Dag APMC,29,0.08011049723756906,False,coverage < 60%
+Rajasthan | Dausa APMC,215,0.5939226519337016,False,coverage < 60%
+Rajasthan | Dholpur APMC,121,0.3342541436464088,False,coverage < 60%
+Rajasthan | Dudu APMC,44,0.12154696132596685,False,coverage < 60%
+Rajasthan | Fatehpur APMC,6,0.016574585635359115,False,coverage < 60%
+Rajasthan | Gajsinghpur APMC,171,0.4723756906077348,False,coverage < 60%
+Rajasthan | Galla Chhipabarod - Chhabra APMC,74,0.20165745856353592,False,coverage < 60%
+Rajasthan | Gangapur City APMC,181,0.494475138121547,False,coverage < 60%
+Rajasthan | Gharsana APMC,133,0.3674033149171271,False,coverage < 60%
+Rajasthan | Goluwala APMC,197,0.5441988950276243,False,coverage < 60%
+Rajasthan | Gudhagorji APMC,116,0.32044198895027626,False,coverage < 60%
+Rajasthan | Gulabpura APMC,119,0.3287292817679558,False,coverage < 60%
+Rajasthan | Hanumangarh APMC,44,0.12154696132596685,False,coverage < 60%
+Rajasthan | HanumangarhTown APMC,91,0.2513812154696133,False,coverage < 60%
+Rajasthan | Jaipur (Grain) APMC,8,0.022099447513812154,False,coverage < 60%
+Rajasthan | Jaitaran APMC,2,0.0055248618784530384,False,coverage < 60%
+Rajasthan | Jaitsar APMC,130,0.35911602209944754,False,coverage < 60%
+Rajasthan | Jayal APMC,47,0.1298342541436464,False,coverage < 60%
+Rajasthan | Jhunjhunu APMC,3,0.008287292817679558,False,coverage < 60%
+Rajasthan | Kama APMC,159,0.43922651933701656,False,coverage < 60%
+Rajasthan | Kapasan APMC,138,0.3812154696132597,False,coverage < 60%
+Rajasthan | Kekri APMC,176,0.4861878453038674,False,coverage < 60%
+Rajasthan | Kesarisinghpur APMC,163,0.45027624309392267,False,coverage < 60%
+Rajasthan | Keshoraipatan APMC,192,0.5248618784530387,False,coverage < 60%
+Rajasthan | Khairthal APMC,187,0.5165745856353591,False,coverage < 60%
+Rajasthan | Khajuwala APMC,80,0.212707182320442,False,coverage < 60%
+Rajasthan | Khandar APMC,128,0.35359116022099446,False,coverage < 60%
+Rajasthan | Khatauli APMC,152,0.4198895027624309,False,coverage < 60%
+Rajasthan | Kishangarh Renwal APMC,126,0.34806629834254144,False,coverage < 60%
+Rajasthan | Kishangarhbas APMC,1,0.0027624309392265192,False,coverage < 60%
+Rajasthan | Kota APMC,99,0.27348066298342544,False,coverage < 60%
+Rajasthan | Kotputli APMC,5,0.013812154696132596,False,coverage < 60%
+Rajasthan | Kuchaman City APMC,20,0.055248618784530384,False,coverage < 60%
+Rajasthan | Kumher APMC,28,0.07458563535911603,False,coverage < 60%
+Rajasthan | Lalgarh Jatan - Sri Ganganagar Grain APMC,16,0.04419889502762431,False,coverage < 60%
+Rajasthan | Laxmangarh - Barodamev  APMC,155,0.356353591160221,False,coverage < 60%
+Rajasthan | Lunkaransar APMC,113,0.31215469613259667,False,coverage < 60%
+Rajasthan | Mahuwa APMC,45,0.12430939226519337,False,coverage < 60%
+Rajasthan | Manohararthana APMC,205,0.5607734806629834,False,coverage < 60%
+Rajasthan | Nadwai APMC,157,0.43370165745856354,False,coverage < 60%
+Rajasthan | Nagar APMC,18,0.049723756906077346,False,coverage < 60%
+Rajasthan | Nagaur APMC,1,0.0027624309392265192,False,coverage < 60%
+Rajasthan | Nahargarh APMC,178,0.49171270718232046,False,coverage < 60%
+Rajasthan | Nawalgarh APMC,1,0.0027624309392265192,False,coverage < 60%
+Rajasthan | Nimbahera APMC,197,0.5441988950276243,False,coverage < 60%
+Rajasthan | Nohar APMC,39,0.10773480662983426,False,coverage < 60%
+Rajasthan | Nokha APMC,142,0.39226519337016574,False,coverage < 60%
+Rajasthan | Osiyan Mathania APMC,185,0.511049723756906,False,coverage < 60%
+Rajasthan | Padampur APMC,192,0.5303867403314917,False,coverage < 60%
+Rajasthan | Pahari APMC,48,0.13259668508287292,False,coverage < 60%
+Rajasthan | Palsana APMC,38,0.10497237569060773,False,coverage < 60%
+Rajasthan | Pilibanga APMC,79,0.21823204419889503,False,coverage < 60%
+Rajasthan | Pugal Road Grain APMC,112,0.15469613259668508,False,coverage < 60%
+Rajasthan | Raisingh Nagar APMC,124,0.3425414364640884,False,coverage < 60%
+Rajasthan | Rajdhanai Mandi KukarKheda APMC,42,0.11602209944751381,False,coverage < 60%
+Rajasthan | Rani APMC,47,0.1298342541436464,False,coverage < 60%
+Rajasthan | Raniwara APMC,1,0.0027624309392265192,False,coverage < 60%
+Rajasthan | Rawatsar APMC,133,0.3674033149171271,False,coverage < 60%
+Rajasthan | Rawla APMC,74,0.20441988950276244,False,coverage < 60%
+Rajasthan | Ridmalsar APMC,8,0.022099447513812154,False,coverage < 60%
+Rajasthan | Sadulshahar APMC,176,0.48342541436464087,False,coverage < 60%
+Rajasthan | Sangriya APMC,67,0.1850828729281768,False,coverage < 60%
+Rajasthan | Sardar Shahar APMC,5,0.013812154696132596,False,coverage < 60%
+Rajasthan | Sawai Madhopur APMC,150,0.4116022099447514,False,coverage < 60%
+Rajasthan | Shahpura APMC,4,0.011049723756906077,False,coverage < 60%
+Rajasthan | Sojat Road APMC,15,0.04143646408839779,False,coverage < 60%
+Rajasthan | Sri Karanpur APMC,99,0.27348066298342544,False,coverage < 60%
+Rajasthan | Sri Vijayanagar APMC,123,0.3397790055248619,False,coverage < 60%
+Rajasthan | Sridungargarh APMC,85,0.23480662983425415,False,coverage < 60%
+Rajasthan | Sriganganagar (Grain) APMC,208,0.574585635359116,False,coverage < 60%
+Rajasthan | Sub yard Kawai Salpura,186,0.511049723756906,False,coverage < 60%
+Rajasthan | Sujangarh APMC,9,0.024861878453038673,False,coverage < 60%
+Rajasthan | Sumerpur APMC,145,0.4005524861878453,False,coverage < 60%
+Rajasthan | Suratgarh APMC,123,0.3397790055248619,False,coverage < 60%
+Rajasthan | Tijara APMC,111,0.3011049723756906,False,coverage < 60%
+Rajasthan | Todaraisingh APMC,94,0.2596685082872928,False,coverage < 60%
+Rajasthan | Tonk APMC,178,0.49171270718232046,False,coverage < 60%
+Rajasthan | Udaipur (Grain) APMC,262,0.42265193370165743,False,coverage < 60%
+Rajasthan | Uniyara APMC,172,0.47513812154696133,False,coverage < 60%
+Telangana | Bhainsa APMC,46,0.1270718232044199,False,coverage < 60%
+Telangana | Boath APMC,37,0.10220994475138122,False,coverage < 60%
+Telangana | Sadasivpet APMC,3,0.008287292817679558,False,coverage < 60%
+Telangana | Zaheerabad APMC,48,0.13259668508287292,False,coverage < 60%
+Uttar Pradesh | Agra APMC,106,0.2513812154696133,False,coverage < 60%
+Uttar Pradesh | Ahirora APMC,132,0.24033149171270718,False,coverage < 60%
+Uttar Pradesh | Ajuha APMC,247,0.5718232044198895,False,coverage < 60%
+Uttar Pradesh | Aliganj APMC,490,0.585635359116022,False,coverage < 60%
+Uttar Pradesh | Amroha APMC,60,0.16022099447513813,False,coverage < 60%
+Uttar Pradesh | Anoop Shahar APMC,139,0.3425414364640884,False,coverage < 60%
+Uttar Pradesh | Anwala APMC,349,0.49171270718232046,False,coverage < 60%
+Uttar Pradesh | Atrauli APMC,204,0.5,False,coverage < 60%
+Uttar Pradesh | Awagarh APMC,37,0.09668508287292818,False,coverage < 60%
+Uttar Pradesh | Baberu APMC,238,0.5,False,coverage < 60%
+Uttar Pradesh | Babrala APMC,302,0.5082872928176796,False,coverage < 60%
+Uttar Pradesh | Baheri APMC,142,0.27900552486187846,False,coverage < 60%
+Uttar Pradesh | Ballia APMC,292,0.5497237569060773,False,coverage < 60%
+Uttar Pradesh | Baraut APMC,214,0.46408839779005523,False,coverage < 60%
+Uttar Pradesh | Bewar APMC,178,0.43646408839779005,False,coverage < 60%
+Uttar Pradesh | Bhehjoi APMC,388,0.580110497237569,False,coverage < 60%
+Uttar Pradesh | Bijnaur APMC,219,0.43922651933701656,False,coverage < 60%
+Uttar Pradesh | Bilaspur APMC,188,0.31767955801104975,False,coverage < 60%
+Uttar Pradesh | Bilsi APMC,211,0.4585635359116022,False,coverage < 60%
+Uttar Pradesh | Bishalpur APMC,341,0.4696132596685083,False,coverage < 60%
+Uttar Pradesh | Bisoli APMC,183,0.30939226519337015,False,coverage < 60%
+Uttar Pradesh | CHHUTMALPUR APMC,48,0.1298342541436464,False,coverage < 60%
+Uttar Pradesh | Chaandpur APMC,66,0.17955801104972377,False,coverage < 60%
+Uttar Pradesh | Chandausi APMC,159,0.27348066298342544,False,coverage < 60%
+Uttar Pradesh | Chandoli APMC,93,0.24033149171270718,False,coverage < 60%
+Uttar Pradesh | Chhibramau APMC,232,0.48342541436464087,False,coverage < 60%
+Uttar Pradesh | Chorichora APMC,136,0.2596685082872928,False,coverage < 60%
+Uttar Pradesh | Colonelganj APMC,318,0.4889502762430939,False,coverage < 60%
+Uttar Pradesh | DADRI APMC,179,0.3453038674033149,False,coverage < 60%
+Uttar Pradesh | Dankaur APMC,258,0.5276243093922652,False,coverage < 60%
+Uttar Pradesh | Dataganj APMC,477,0.5966850828729282,False,coverage < 60%
+Uttar Pradesh | Deoband APMC,22,0.058011049723756904,False,coverage < 60%
+Uttar Pradesh | Dhampur APMC,45,0.11878453038674033,False,coverage < 60%
+Uttar Pradesh | Dhanaura APMC,170,0.4696132596685083,False,coverage < 60%
+Uttar Pradesh | Divai APMC,135,0.23204419889502761,False,coverage < 60%
+Uttar Pradesh | Doharighat APMC,127,0.3259668508287293,False,coverage < 60%
+Uttar Pradesh | Dudhi APMC,97,0.22099447513812154,False,coverage < 60%
+Uttar Pradesh | Etawah APMC,260,0.494475138121547,False,coverage < 60%
+Uttar Pradesh | Farukhabad APMC,136,0.3287292817679558,False,coverage < 60%
+Uttar Pradesh | Fatehabad APMC,58,0.1408839779005525,False,coverage < 60%
+Uttar Pradesh | Fatehpur Sikri APMC,220,0.5220994475138122,False,coverage < 60%
+Uttar Pradesh | Gadaura APMC,174,0.43922651933701656,False,coverage < 60%
+Uttar Pradesh | Gangoh APMC,254,0.2955801104972376,False,coverage < 60%
+Uttar Pradesh | Ganj Dundwara APMC,268,0.5331491712707183,False,coverage < 60%
+Uttar Pradesh | Gazipur APMC,53,0.1464088397790055,False,coverage < 60%
+Uttar Pradesh | Ghaziabad APMC,266,0.5193370165745856,False,coverage < 60%
+Uttar Pradesh | Ghiraur APMC,238,0.5220994475138122,False,coverage < 60%
+Uttar Pradesh | Gopiganj APMC,80,0.212707182320442,False,coverage < 60%
+Uttar Pradesh | Gulavati APMC,229,0.4281767955801105,False,coverage < 60%
+Uttar Pradesh | Haldaur APMC,95,0.2430939226519337,False,coverage < 60%
+Uttar Pradesh | Hasanpur APMC,244,0.42265193370165743,False,coverage < 60%
+Uttar Pradesh | Islam Nagar APMC,282,0.43370165745856354,False,coverage < 60%
+Uttar Pradesh | Jamanian APMC,21,0.058011049723756904,False,coverage < 60%
+Uttar Pradesh | Jangipura APMC,189,0.40607734806629836,False,coverage < 60%
+Uttar Pradesh | Jarar APMC,143,0.3674033149171271,False,coverage < 60%
+Uttar Pradesh | Jasra APMC,192,0.39226519337016574,False,coverage < 60%
+Uttar Pradesh | Jasvantnagar APMC,88,0.1712707182320442,False,coverage < 60%
+Uttar Pradesh | Jewar APMC,342,0.45027624309392267,False,coverage < 60%
+Uttar Pradesh | Jhansi Grain APMC,42,0.11602209944751381,False,coverage < 60%
+Uttar Pradesh | Kadaura APMC,420,0.5331491712707183,False,coverage < 60%
+Uttar Pradesh | Kalpi APMC,371,0.5994475138121547,False,coverage < 60%
+Uttar Pradesh | Kamlaganj APMC,71,0.13812154696132597,False,coverage < 60%
+Uttar Pradesh | Kayamganj APMC,314,0.40607734806629836,False,coverage < 60%
+Uttar Pradesh | Khaga APMC,221,0.5552486187845304,False,coverage < 60%
+Uttar Pradesh | Khair APMC,443,0.5883977900552486,False,coverage < 60%
+Uttar Pradesh | Khatauli APMC,61,0.13535911602209943,False,coverage < 60%
+Uttar Pradesh | Khekda APMC,224,0.4198895027624309,False,coverage < 60%
+Uttar Pradesh | Kiratpur APMC,21,0.058011049723756904,False,coverage < 60%
+Uttar Pradesh | Kishunpur APMC,247,0.5469613259668509,False,coverage < 60%
+Uttar Pradesh | Kopaganj APMC,220,0.5662983425414365,False,coverage < 60%
+Uttar Pradesh | Kurara APMC,301,0.4889502762430939,False,coverage < 60%
+Uttar Pradesh | Kushinagar APMC,217,0.3453038674033149,False,coverage < 60%
+Uttar Pradesh | Lediyari APMC,149,0.3011049723756906,False,coverage < 60%
+Uttar Pradesh | Maholi APMC,194,0.5220994475138122,False,coverage < 60%
+Uttar Pradesh | Manjhanpur APMC,165,0.42265193370165743,False,coverage < 60%
+Uttar Pradesh | Mawana APMC,155,0.27071823204419887,False,coverage < 60%
+Uttar Pradesh | Meeranpur Katra APMC,480,0.5662983425414365,False,coverage < 60%
+Uttar Pradesh | Meerut APMC,219,0.47790055248618785,False,coverage < 60%
+Uttar Pradesh | Mihipurwa APMC,401,0.5441988950276243,False,coverage < 60%
+Uttar Pradesh | Milak APMC,256,0.45027624309392267,False,coverage < 60%
+Uttar Pradesh | Mirzapur APMC,221,0.45027624309392267,False,coverage < 60%
+Uttar Pradesh | Mishrit APMC,95,0.26243093922651933,False,coverage < 60%
+Uttar Pradesh | Mohamadabad APMC,142,0.35082872928176795,False,coverage < 60%
+Uttar Pradesh | Mugrabaadshahpur APMC,183,0.39502762430939226,False,coverage < 60%
+Uttar Pradesh | Muradnagar APMC,53,0.1298342541436464,False,coverage < 60%
+Uttar Pradesh | Muskara APMC,250,0.585635359116022,False,coverage < 60%
+Uttar Pradesh | Muzzafarnagar APMC,80,0.12154696132596685,False,coverage < 60%
+Uttar Pradesh | Nagina APMC,40,0.06906077348066299,False,coverage < 60%
+Uttar Pradesh | Najibabad APMC,46,0.08839779005524862,False,coverage < 60%
+Uttar Pradesh | Nakur APMC,171,0.2955801104972376,False,coverage < 60%
+Uttar Pradesh | Nanuta APMC,147,0.2430939226519337,False,coverage < 60%
+Uttar Pradesh | Noida APMC,13,0.024861878453038673,False,coverage < 60%
+Uttar Pradesh | Panwari APMC,24,0.058011049723756904,False,coverage < 60%
+Uttar Pradesh | Parikshitgarh APMC,8,0.016574585635359115,False,coverage < 60%
+Uttar Pradesh | Payagpur APMC,607,0.5883977900552486,False,coverage < 60%
+Uttar Pradesh | Pilibhit APMC,316,0.44751381215469616,False,coverage < 60%
+Uttar Pradesh | Puranpur APMC,422,0.5607734806629834,False,coverage < 60%
+Uttar Pradesh | Rampur APMC,96,0.23204419889502761,False,coverage < 60%
+Uttar Pradesh | Rampurmaniharan APMC,1,0.0027624309392265192,False,coverage < 60%
+Uttar Pradesh | Rasda APMC,87,0.21823204419889503,False,coverage < 60%
+Uttar Pradesh | Risia APMC,214,0.4530386740331492,False,coverage < 60%
+Uttar Pradesh | Rupaidiha APMC,207,0.4116022099447514,False,coverage < 60%
+Uttar Pradesh | Saharanpur APMC,332,0.5773480662983426,False,coverage < 60%
+Uttar Pradesh | Saidpur APMC,106,0.2292817679558011,False,coverage < 60%
+Uttar Pradesh | Sambhal APMC,46,0.09944751381215469,False,coverage < 60%
+Uttar Pradesh | Samsabad APMC,34,0.08839779005524862,False,coverage < 60%
+Uttar Pradesh | Sandi APMC,192,0.5027624309392266,False,coverage < 60%
+Uttar Pradesh | Sardhana APMC,15,0.024861878453038673,False,coverage < 60%
+Uttar Pradesh | Shadabad APMC,56,0.12430939226519337,False,coverage < 60%
+Uttar Pradesh | Shahabad APMC,97,0.20718232044198895,False,coverage < 60%
+Uttar Pradesh | Shahaswan APMC,146,0.2955801104972376,False,coverage < 60%
+Uttar Pradesh | Shahpur APMC,193,0.3701657458563536,False,coverage < 60%
+Uttar Pradesh | Shamli APMC,68,0.1850828729281768,False,coverage < 60%
+Uttar Pradesh | Shikohabad APMC,59,0.11602209944751381,False,coverage < 60%
+Uttar Pradesh | Sidhauli APMC,219,0.4143646408839779,False,coverage < 60%
+Uttar Pradesh | Sikanderabad APMC,703,0.580110497237569,False,coverage < 60%
+Uttar Pradesh | Sikandraraau APMC,293,0.5607734806629834,False,coverage < 60%
+Uttar Pradesh | Sikarpur APMC,348,0.4198895027624309,False,coverage < 60%
+Uttar Pradesh | Sirsa APMC,95,0.23756906077348067,False,coverage < 60%
+Uttar Pradesh | Sirsaganj APMC,41,0.09944751381215469,False,coverage < 60%
+Uttar Pradesh | Sultanpurchilkana APMC,67,0.1574585635359116,False,coverage < 60%
+Uttar Pradesh | Tanda Akbarpur APMC,349,0.5773480662983426,False,coverage < 60%
+Uttar Pradesh | Tanda(Rampur) APMC,8,0.022099447513812154,False,coverage < 60%
+Uttar Pradesh | Thanabhawan APMC,61,0.16022099447513813,False,coverage < 60%
+Uttar Pradesh | Tikonia APMC,151,0.39226519337016574,False,coverage < 60%
+Uttar Pradesh | Tilhar APMC,246,0.34806629834254144,False,coverage < 60%
+Uttar Pradesh | Tundla APMC,335,0.4613259668508287,False,coverage < 60%
+Uttar Pradesh | Varanasi APMC,177,0.40331491712707185,False,coverage < 60%
+Uttar Pradesh | Vilthararoad APMC,72,0.1850828729281768,False,coverage < 60%
+Uttar Pradesh | Wazirganj APMC,288,0.39502762430939226,False,coverage < 60%
+Uttar Pradesh | Yusufpur APMC,35,0.09668508287292818,False,coverage < 60%
+Uttarakhand | Bazpur APMC,41,0.1132596685082873,False,coverage < 60%
+Uttarakhand | Bhagwanpur(Naveen Mandi Sthal) APMC,2,0.0055248618784530384,False,coverage < 60%
+Uttarakhand | Gadarpur APMC,78,0.2154696132596685,False,coverage < 60%
+Uttarakhand | Kashipur APMC,7,0.019337016574585635,False,coverage < 60%
+Uttarakhand | Nanakmatta APMC,53,0.1464088397790055,False,coverage < 60%
+Uttarakhand | Sitarganj APMC,27,0.07458563535911603,False,coverage < 60%
+Uttarakhand | Tanakpur APMC,9,0.024861878453038673,False,coverage < 60%
+Uttarakhand | Vikasnagar APMC,45,0.12430939226519337,False,coverage < 60%
+West Bengal | Birbhum APMC,12,0.03314917127071823,False,coverage < 60%
+West Bengal | Bishnupur APMC,63,0.17403314917127072,False,coverage < 60%
+West Bengal | Bolpur APMC,90,0.24861878453038674,False,coverage < 60%
+West Bengal | Gajol APMC,100,0.27624309392265195,False,coverage < 60%
+West Bengal | Jangipur APMC,169,0.46685082872928174,False,coverage < 60%
+West Bengal | Jiaganj APMC,198,0.5469613259668509,False,coverage < 60%
+West Bengal | Kasimbazar APMC,164,0.4530386740331492,False,coverage < 60%
+West Bengal | Raiganj APMC,2,0.0055248618784530384,False,coverage < 60%
+West Bengal | Rampurhat APMC,181,0.5,False,coverage < 60%
+West Bengal | Sainthia APMC,80,0.22099447513812154,False,coverage < 60%
